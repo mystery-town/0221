@@ -1,0 +1,20 @@
+<div class="dropdown attemptBtn">
+	  					<button id="openQ-1" class="btn btn-info btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Attempted <span class="caret"></span>
+	  					</button>
+	  					<ul class="dropdown-menu" aria-labelledby="openQ-1">
+					    <li><a href="#"><span class="glyphicon glyphicon-ok"></span> Correct</a></li>
+					    <li><a href="#"><span class="glyphicon glyphicon-adjust"></span> Partial</a></li>
+					    <li><a href="#modal-attempt-wrong" data-toggle="modal"><span class="glyphicon glyphicon-remove-sign"></span> Wrong</a></li>
+	  					</ul>
+	  				</div>
+
+
+<div class="dropdown attemptBtn">
+		  				<button id="openQ-1" class="btn btn-info btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Attempted <span class="caret"></span>
+		  				</button>
+		  				<ul class="dropdown-menu" aria-labelledby="openQ-1">
+		  					<li><a href="#"><span class="glyphicon glyphicon-ok"></span> Correct</a></li>
+						    <li><a href="#" data-toggle="modal"><span class="glyphicon glyphicon-adjust"></span> Partial</a></li>
+						    <li><a href="#modal-attempt-wrong" data-toggle="modal"><span class="glyphicon glyphicon-remove-sign"></span> Wrong</a></li>
+		  				</ul>
+		  			</div>

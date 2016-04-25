@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title>Nerd Party Trivia Team App - Example </title>
+	<link href="css/trivia_app.css" rel="stylesheet"/>
+	<link href="css/normalize.css" rel="stylesheet"/>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body class="darker">
+	<div class="row">
+		<div class="col-md-4">
+				<h1>Hour 01</h1> 
+				<button class="btn btn-warning" id="btn-newQ" type="button" data-toggle="modal" data-target="#modal-newQ"><span class="glyphicon glyphicon-question-sign"></span> NEW QUESTION</button> 
+<!-- BEGIN New Question Modal -->
+	<div class="modal fade" id="modal-newQ" tabindex="-1" role="dialog" aria-labelledby="newQuestion">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        			<h4 class="modal-title" id="newQ-modalTitle">New Question Open</h4>
+				</div>
+				<div class="modal-body">
+							<form>
+								<div class="form-group">
+									<label for="qNum" class="control-label">Question Number</label>
+									<input type="text" name="qNum" id="qNum" size="2">
+									<label for="qPts" class="control-label" style="padding-left: 20px;">Points</label>
+									<input type="text" name="qPts" id="qPts" size="3">
+									<div class="radio">
+										<label class="radio-inline">
+												<input type="radio" name="specialQ" id="audio" value="audio-true" data-av="audio"> audio
+										</label>
+										<label class="radio-inline">
+												<input type="radio" name="specialQ" id="visual" value="visual-true" data-av="visual"> visual
+										</label>
+									</div>
+									<div class="form-group" id="visualQNum">
+										<label for="visualQNum" class="control-label">Visual Number</label>
+										<input type="text" name="visQNum" size="2">
+									</div>
+								</div>
+								<div class="checkbox">
+									<label>
+										<input type="checkbox" name="" id="" value="audio"> special - one and done
+									</label>
+								</div>
+								<div class="form-group">
+									<label for="qText" class="control-label" >Question Text</label>
+									<textarea id="qText" name="qText" class="form-control" cols="50" rows="4" placeholder="After clicking ADD QUESTION, the question text entered here will populate the left pane"></textarea>
+								</div>
+								<div class="modal-footer">
+        							<button type="button" class="btn btn-success">ADD QUESTION </button>
+      							</div>
+      						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END new question modal -->
+		<!-- BEGIN Questions area -->
+			<div class="questions">
+				<div class="panel panel-default" data-state="open">
+					<div class="panel-heading"><h2 class="panel-title">Q1 45pts 5:03pm Friday</h2><button type="button" class="btn btn-default btn-xs pull-right" >close</button	></div>
+					<div class="panel-body">This St Cloud State alumnus tells us his career path was influenced by his father. "Airbrush and the Abstract Image" He has worked on Jurassic Park, Avatar, Star Wars Special edition. Please give us the name of this alum and his father.
+					<div class="attemptBtn"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modal-attempt">ATTEMPT</button>
+						<button type="button" class="btn btn-default btn-sm"> <span class="glyphicon glyphicon-plus-sign"></span></button>
+					</div>
+
+	  				<div class="attempts">
+	  					<p class="wrong">Batman</p>
+	  					<p class="partial">Wonder Woman</p>
+	  				</div>
+	  				</div>
+				</div>
+				<div class="panel panel-default" id="closedxx">
+					<div class="panel-heading"><h2 class="panel-title">Q2 10pts 5:05pm Friday</h2><button type="button" class="btn btn-default btn-xs pull-right" >close</button	></div>
+					<div class="panel-body"><p class="special"><span class="glyphicon glyphicon-exclamation-sign"></span> ONE AND DONE</p>Off the expressway over the river off the billboard... This was the challenge over what food item?
+					<div class="attemptBtn"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modal-attempt" >ATTEMPT</button></div>
+		  			<div class="attempts">
+	  					<p class="correct">Wheat Thins</p>
+	  				</div>
+					</div>
+				</div>
+				<div class="panel panel-default"  data-state="open">
+					<div class="panel-heading"><h2 class="panel-title">Q3 20pts 5:10pm Friday</h2><button type="button" class="btn btn-default btn-xs pull-right" >close</button></div>
+					<div class="panel-body">Cabooze Friday Feb 20, featuring Hordor What's the name of the group?
+					<div class="attemptBtn"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modal-attempt" >ATTEMPT</button></div>
+		  			<div class="attempts">
+	  					<p class=""></p>
+	  				</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading"><h2 class="panel-title">Q4 45pts 5:14pm Friday</h2><button type="button" class="btn btn-default btn-xs pull-right" >close</button></div>
+					<div class="panel-body">why yes, no man can help the danger of curiosity over kindness, when words of help are spoken in the snow...answers to 11 questions the doctor posed to companions. The one response missing from this list.
+					<div class="attemptBtn"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modal-attempt" >ATTEMPT</button></div>
+		  			<div class="attempts">
+	  					<p class=""></p>
+	  				</div>
+					</div>
+				</div>
+				<div class="closed-questions">
+					<button class="toggleClosedQs btn btn-default btn-xs" data-target="#toggleClosedQxx" onclick="$('#closedxx').toggle();">TOGGLE CLOSED QUESTIONS</button>
+				</div>
+				</div>
+			</div>
+
+		<!-- BEGIN Attempt modal -->	
+		<div class="modal fade" id="modal-attempt" tabindex="-1" role="dialog" aria-labelledby="Attempt">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        			<h4 class="modal-title" id="attemptWrong">Attempt Question 1 HR 1</h4>
+					</div>
+					<div class="modal-body">
+								<form>
+									<div class="radio">
+										<label>
+											<input type="radio" name="optionsRadios" id="attempt-wrong" value="wrong" checked>
+    											Wrong
+  										</label>
+  										<label>
+											<input type="radio" name="optionsRadios" id="attempt-partial" value="partial" >
+    											Partial
+  										</label>
+  										<label>
+											<input type="radio" name="optionsRadios" id="attempt-correct" value="correct" >
+    											Correct
+  										</label>
+									</div>
+									<div class="form-group">
+										<label for="attemptWrong" class="control-label">Attempt Text</label>
+										<textarea id="attemptText" name="attemptText" class="form-control" cols="50" rows="4"></textarea>
+									</div>
+									<div class="modal-footer">
+	        							<button type="button" class="btn btn-success">SAVE ATTEMPT</button>
+	      							</div>
+	      						</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		<!-- END Attempt modal -->
+		<!-- END Questions area -->
+		<!-- BEGIN Chat -->
+		<div class="col-md-8" >
+			<h2>Chatroom</h2>
+			<div class="chatText" id="chat" >
+				<p><em>notetaker</em> Digital pets when you’re lost out there and you’re all alone move it football head quiet storm. </p>
+				<p><em>notetaker</em>Personalized mixtapes aviators Carlton dance deserunt Madonna Wayne Gretzky. </p>
+				<p><em>autumn</em> Ut leopard print bucket hats home skillet AC Slater scrolling text, zebra stripes Converse et Wayne’s World slacker.</p>
+				<p><em>tiffany</em> Rollerblades Sublime kicks Barbie, Sega Genesis sports utility vehicles America Online Umbro shorts. </p>
+				<p><em>kurt</em> Hoodies inflatable furniture Julia Roberts Roseanne Barr. Hi-top fade Baywatch overalls with one strap undone Frasier eiusmod, bowl cut magna Rachel Green homie ut id. TRL Oasis minesweeper Shania Twain personal computer personalized mixtapes.</p>
+				<p><em>sarah</em> Wearing your cap backwards body piercings Kazaa Sugar Ray I believe I can fly TRL. Oakleys velit Members Only jackets Dolly the Sheep Street Fighter II.  </p>
+				<p><em>sarah</em> Giga Pets home skillet Toyota Previa Tommy Hilfiger. </p>
+				<p><em>andrea</em> Game Boy Color Atlanta Braves hottie. Pop punk Hot Pockets scrunchies berry lips Hey Arnold Wesley Snipes. Non Netscape Navigator Independence Day glow in the dark stickers minesweeper.</p>
+				<p><em>notetaker</em> Digital pets when you’re lost out there and you’re all alone move it football head quiet storm. </p>
+				<p><em>notetaker</em>Personalized mixtapes aviators Carlton dance deserunt Madonna Wayne Gretzky. </p>
+				<p><em>autumn</em> Ut leopard print bucket hats home skillet AC Slater scrolling text, zebra stripes Converse et Wayne’s World slacker.</p>
+				<p><em>tiffany</em> Rollerblades Sublime kicks Barbie, Sega Genesis sports utility vehicles America Online Umbro shorts. </p>
+				<p><em>kurt</em> Hoodies inflatable furniture Julia Roberts Roseanne Barr. Hi-top fade Baywatch overalls with one strap undone Frasier eiusmod, bowl cut magna Rachel Green homie ut id. TRL Oasis minesweeper Shania Twain personal computer personalized mixtapes.</p>
+				<p><em>sarah</em> Wearing your cap backwards body piercings Kazaa Sugar Ray I believe I can fly TRL. Oakleys velit Members Only jackets Dolly the Sheep Street Fighter II.  </p>
+				<p><em>sarah</em> Giga Pets home skillet Toyota Previa Tommy Hilfiger. </p>
+				<p><em>andrea</em> Game Boy Color Atlanta Braves hottie. Pop punk Hot Pockets scrunchies berry lips Hey Arnold Wesley Snipes. Non Netscape Navigator Independence Day glow in the dark stickers minesweeper.</p>
+				<p><em>notetaker</em> Digital pets when you’re lost out there and you’re all alone move it football head quiet storm. </p>
+				<p><em>notetaker</em>Personalized mixtapes aviators Carlton dance deserunt Madonna Wayne Gretzky. </p>
+				<p><em>autumn</em> Ut leopard print bucket hats home skillet AC Slater scrolling text, zebra stripes Converse et Wayne’s World slacker.</p>
+				<p><em>tiffany</em> Rollerblades Sublime kicks Barbie, Sega Genesis sports utility vehicles America Online Umbro shorts. </p>
+				<p><em>kurt</em> Hoodies inflatable furniture Julia Roberts Roseanne Barr. Hi-top fade Baywatch overalls with one strap undone Frasier eiusmod, bowl cut magna Rachel Green homie ut id. TRL Oasis minesweeper Shania Twain personal computer personalized mixtapes.</p>
+				<p><em>sarah</em> Wearing your cap backwards body piercings Kazaa Sugar Ray I believe I can fly TRL. Oakleys velit Members Only jackets Dolly the Sheep Street Fighter II.  </p>
+				<p><em>sarah</em> Giga Pets home skillet Toyota Previa Tommy Hilfiger. </p>
+				<p><em>andrea</em> Game Boy Color Atlanta Braves hottie. Pop punk Hot Pockets scrunchies berry lips Hey Arnold Wesley Snipes. Non Netscape Navigator Independence Day glow in the dark stickers minesweeper.</p>
+			</div>
+			<textarea cols="100" rows="4"></textarea>
+		</div>
+
+		<!-- END chat -->
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<footer>
+	  			<button type="submit" class="btn btn-warning pull-right"><span class="glyphicon glyphicon-hourglass"></span> START NEW HOUR </button>
+			</footer>
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!--<script type="text/javascript" src="trivia_app.js"></script>-->
+</html>
