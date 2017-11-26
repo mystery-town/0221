@@ -1,0 +1,167 @@
+[
+    {
+        "user": "U3QGW9KML",
+        "topic": "<http:\/\/www.kvsc.org\/listen_live.php>",
+        "text": "<@U3QGW9KML> set the channel topic: <http:\/\/www.kvsc.org\/listen_live.php>",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1487170649.000003"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "super annoying: <https:\/\/www.seroundtable.com\/google-discussion-search-dead-18854.html>",
+        "attachments": [
+            {
+                "service_name": "seroundtable.com",
+                "title": "Google Disables Discussion Search",
+                "title_link": "https:\/\/www.seroundtable.com\/google-discussion-search-dead-18854.html",
+                "text": "Yesterday, Google has completely removed the ability to use their discussion search filter. Earlier this year, Google removed the feature from their search filters but savvy searchers were able to acc",
+                "fallback": "seroundtable.com: Google Disables Discussion Search",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/images.seroundtable.com\/google-discussion-search-1405513130.png",
+                "from_url": "https:\/\/www.seroundtable.com\/google-discussion-search-dead-18854.html",
+                "thumb_width": 314,
+                "thumb_height": 72,
+                "service_icon": "https:\/\/www.seroundtable.com\/favicon32.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487170800.000004"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "ugh",
+        "ts": "1487170831.000006"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "You guys, that article is from 2014.",
+        "ts": "1487170866.000007"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "FAKE NEWS",
+        "ts": "1487170875.000008"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "haha",
+        "ts": "1487170879.000009"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Sad!",
+        "ts": "1487170881.000010"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Past few years I've used Google site search on 4chan and some other forums.",
+        "ts": "1487170906.000011"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "But I think we probably need to up our forum game if we want to find any of those hidden discussions.",
+        "ts": "1487170934.000012"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U3P3ZG1Q9",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[February 15th, 2017 6:57 AM] barry: <@U3QGW9KML> set the channel topic: <http:\/\/www.kvsc.org\/listen_live.php>",
+                "ts": "1487170649.000003",
+                "msg_subtype": "channel_topic",
+                "author_id": "U3QGW9KML",
+                "author_subname": "Barry Schwartze",
+                "channel_id": "C3QFHC1DM",
+                "channel_name": "triviaweekend",
+                "is_msg_unfurl": true,
+                "text": "<@U3QGW9KML> set the channel topic: <http:\/\/www.kvsc.org\/listen_live.php>",
+                "author_name": "Barry Schwartze",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/U3QGW9KML",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-17\/143156384515_fbdef2ed9b7783b54768_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U3P3ZG1Q9> pinned a message to this channel.",
+        "ts": "1487170973.000013"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "you should see the channel topic at the top of the screen. i added links to the live stream and the images forum on the respective channels.",
+        "ts": "1487176430.000014"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "so are you guys thinking of having all the questions posted in this channel or having separate channels for questions?",
+        "ts": "1487176486.000015"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Just this one channel for the whole weekend. I think it's too confusing to have people switching channels.",
+        "ts": "1487176526.000016"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "And for the notetaker and callers--easier to have one single stream of information.",
+        "ts": "1487176562.000017"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<http:\/\/boardreader.com\/>",
+        "ts": "1487177465.000018"
+    },
+    {
+        "user": "U3U0Z9F4K",
+        "text": "<@U3U0Z9F4K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487216107.000019"
+    },
+    {
+        "type": "message",
+        "user": "U3U0Z9F4K",
+        "text": "Hey guys, I will be checking in from time to time from north western Wisconsin.  Does anyone know if there is a significant lag time between the over air broadcast and online?",
+        "ts": "1487216180.000020"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "There's definitely some lag, but not significant enough for us to miss questions usually.",
+        "ts": "1487216808.000021"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "None of us are listening over the air though, so we're all in the same boat, even at HQ.",
+        "ts": "1487216911.000022"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Since we are transcribing all the questions, it would be feasible to play without listening to the stream at all, although probably less fun.",
+        "ts": "1487217107.000023"
+    },
+    {
+        "type": "message",
+        "user": "U3U0Z9F4K",
+        "text": "Thanks Autumn!",
+        "ts": "1487217272.000024"
+    }
+]

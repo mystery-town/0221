@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U3TPHUT5X",
+        "text": "<@U3TPHUT5X> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487603900.010928"
+    },
+    {
+        "type": "message",
+        "user": "U3TPHUT5X",
+        "text": "What'd I miss?",
+        "ts": "1487630498.010929",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U3QAZR6D6",
+                    "U3P3ZG1Q9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bullwinkle",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U3SJ6J3CZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

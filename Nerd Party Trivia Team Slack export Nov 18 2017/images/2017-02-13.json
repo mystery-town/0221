@@ -1,0 +1,302 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3SJ6J3CZ> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F45F7TQKG\/spine.jpg|Spine.jpg> and commented: Just found this one!!! It's from the album \"Monsoon\" by the band Caroline's Spine!",
+        "file": {
+            "id": "F45F7TQKG",
+            "created": 1487010989,
+            "timestamp": 1487010989,
+            "name": "Spine.jpg",
+            "title": "Spine.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U3SJ6J3CZ",
+            "editable": false,
+            "size": 71104,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F45F7TQKG\/spine.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F45F7TQKG\/download\/spine.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_64.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_80.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_360.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 360,
+            "thumb_360_h": 181,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_480.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 480,
+            "thumb_480_h": 241,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_160.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45F7TQKG-bd0bbe3d3e\/spine_720.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720_w": 720,
+            "thumb_720_h": 361,
+            "image_exif_rotation": 1,
+            "original_w": 797,
+            "original_h": 400,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F45F7TQKG\/spine.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F45F7TQKG-2010967bc8",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc444NMBCH",
+                "created": 1487010989,
+                "timestamp": 1487010989,
+                "user": "U3SJ6J3CZ",
+                "is_intro": true,
+                "comment": "Just found this one!!! It's from the album \"Monsoon\" by the band Caroline's Spine!"
+            },
+            "reactions": [
+                {
+                    "name": "carlton",
+                    "users": [
+                        "U3QGW9KML",
+                        "U3PTX9WER",
+                        "U3P3ZG1Q9",
+                        "U3PSHA2RY"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        "user": "U3SJ6J3CZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "kurt",
+        "bot_id": null,
+        "ts": "1487010991.000014"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "What?!",
+        "ts": "1487011032.000017"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Sweet, nice find",
+        "ts": "1487011068.000018"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I have an extension where I can do a reverse image search on like 5 different sites, and this showed up on one of them.",
+        "ts": "1487011079.000019"
+    },
+    {
+        "text": "<http:\/\/gph.is\/Mmo5yX>",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "http:\/\/media0.giphy.com\/media\/hhelJzR8rexuU\/giphy.gif",
+                "image_width": 390,
+                "image_height": 500,
+                "image_bytes": 406136,
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/sparkle-sean-connery-zardoz-hhelJzR8rexuU",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487011080.000020"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Have you used it on the rest?",
+        "ts": "1487011122.000022"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "what extension is that?",
+        "ts": "1487011126.000023"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I used it on several others, but this is the only one that gave me a hit. Hang on, I will see what the extension is.",
+        "ts": "1487011161.000024"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "So exciting!",
+        "ts": "1487011216.000026"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "It's called RevEye Reverse Image Search for Chrome. I have it set that when I right click on an image, it checks Google, Bing, Yandex, TinEye and Baidu all at once.",
+        "ts": "1487011250.000027"
+    },
+    {
+        "text": "<http:\/\/gph.is\/Mmo5yX>",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487011250.000028"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I plan on hitting these images hard on Wednesday and Thursday night. I always wonder if other teams find the image and post links to each other about them, maybe it makes it easier for them to be hit by a reverse  image search.",
+        "ts": "1487011373.000029"
+    },
+    {
+        "text": "<http:\/\/gph.is\/Mmo5yX>",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487011373.000030"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Yeah, people sometimes get sloppy and desperate the week before trivia!",
+        "ts": "1487011431.000031"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yup! And I like to take advantage of said sloppiness. :smile:",
+        "ts": "1487011453.000032",
+        "reactions": [
+            {
+                "name": "sleuth_or_spy",
+                "users": [
+                    "U3P3ZG1Q9",
+                    "U3QAZR6D6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I've been doing the reverse image search from our webpage of images we still need to identify. Removing the trivia image number label from the pics definitely helps immensely, so kudos to whoever did that!",
+        "ts": "1487011966.000034"
+    },
+    {
+        "text": "<http:\/\/gph.is\/Mmo5yX>",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487011966.000035"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Shut up, Slackbot. ",
+        "ts": "1487011979.000036"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Sorry, the slackbot is my fault.",
+        "ts": "1487012005.000037"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "i appreciate that slackbot is not loading Zed every time",
+        "ts": "1487012039.000038"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "But I removed the image numbers, so I guess that evens me out.",
+        "ts": "1487012041.000039"
+    },
+    {
+        "text": "<http:\/\/gph.is\/Mmo5yX>",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487012041.000040"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Has any one tried coloring the knockoff figurine with the colors from the original and reverse searching?",
+        "ts": "1487012111.000041"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I've tried, with no success. I really thought the crocodile-or-whatever image would be easier than is has been. ",
+        "ts": "1487012167.000042"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yes, Stacia. Lol. :joy:",
+        "ts": "1487012187.000043"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "keep an eye on KVSC's fb page because they might post the images in color in the next couple of days",
+        "ts": "1487012203.000044"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I've been hoping they will. Did they do that last year?",
+        "ts": "1487012301.000045"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Nope, last year we were denied.",
+        "ts": "1487014678.000046"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Ok.  I wasn't sure if they did. Hopefully they do this year. ",
+        "ts": "1487014780.000047"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "   :fingers crossed:",
+        "ts": "1487014838.000048"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "these cats are struggling with a lot of the same images. <http:\/\/readersngeeks.weebly.com\/history.html>",
+        "attachments": [
+            {
+                "service_name": "Carbon-dated readers n' Geeks",
+                "title": "History",
+                "title_link": "http:\/\/readersngeeks.weebly.com\/history.html",
+                "text": "2001  Night of the Living Trivia - 54 place out of 69 - 6125 pts  24 Buttcheeks  2002  Trivia Tube - 44 place out of 69 - 7195 pts 2003  Viva Las Vegas - 56 out of 75 - 8285 pts 2007  Trivia...",
+                "fallback": "Carbon-dated readers n' Geeks: History",
+                "from_url": "http:\/\/readersngeeks.weebly.com\/history.html",
+                "service_icon": "http:\/\/readersngeeks.weebly.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1487025056.000049"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I think they just have all the images on their site.",
+        "ts": "1487027108.000051"
+    }
+]

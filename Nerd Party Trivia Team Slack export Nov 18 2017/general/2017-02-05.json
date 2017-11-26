@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I hate these remaining images. :tired_face:",
+        "ts": "1486305921.000003"
+    },
+    {
+        "user": "U41VCDCB1",
+        "text": "<@U41VCDCB1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486350363.000002"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "hello from the infamous notetaker computer!",
+        "ts": "1486350537.000003"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "go Falcons!",
+        "ts": "1486350556.000004"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Hi notetaker!!! ",
+        "ts": "1486350584.000005"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "hi <@U3SJ6J3CZ>! watching the game?",
+        "ts": "1486351201.000006"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": ":frowning:",
+        "ts": "1486351755.000007"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "No...was at work. :weary:",
+        "ts": "1486360053.000008"
+    }
+]

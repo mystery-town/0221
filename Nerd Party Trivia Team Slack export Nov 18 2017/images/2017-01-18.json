@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U3TAVES85",
+        "text": "<@U3TAVES85> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484769792.000002"
+    },
+    {
+        "user": "U3SJ6J3CZ",
+        "text": "<@U3SJ6J3CZ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484770334.000003"
+    },
+    {
+        "user": "U3SJ6J3CZ",
+        "text": "<@U3SJ6J3CZ> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1484770407.000004"
+    },
+    {
+        "user": "U3SJ6J3CZ",
+        "text": "<@U3SJ6J3CZ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484770493.000005"
+    },
+    {
+        "user": "U3U0TU7K9",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3U0TU7K9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000006"
+    },
+    {
+        "user": "U3QAZR6D6",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3QAZR6D6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000007"
+    },
+    {
+        "user": "U3PSEC67N",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3PSEC67N> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000008"
+    },
+    {
+        "user": "U3U05BGES",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3U05BGES> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000009"
+    },
+    {
+        "user": "U3TD4RP9S",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3TD4RP9S> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000010"
+    },
+    {
+        "user": "U3SL363UH",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3SL363UH> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000011"
+    },
+    {
+        "user": "U3TCE3PL4",
+        "inviter": "U3P3ZG1Q9",
+        "text": "<@U3TCE3PL4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484774146.000012"
+    }
+]

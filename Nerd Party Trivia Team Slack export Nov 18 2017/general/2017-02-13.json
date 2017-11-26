@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "here’s a spreadsheet listing the songs Gypsy played Sunday night <https:\/\/docs.google.com\/spreadsheets\/d\/1wZvbbjdRwmxjL-nb7oae-Mc7PEokUPQ76FRBnnJu1Bs\/edit?usp=sharing>",
+        "ts": "1487040251.000061"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3PTX9WER> shared a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3PTX9WER\/F45MJ1FB8\/weather_songs_from_gypsy_played_feb_12_2017|weather songs from Gypsy played Feb 12 2017>",
+        "file": {
+            "id": "F45MJ1FB8",
+            "created": 1487040268,
+            "timestamp": 1487040268,
+            "name": "weather songs from Gypsy played Feb 12 2017",
+            "title": "weather songs from Gypsy played Feb 12 2017",
+            "mimetype": "application\/vnd.google-apps.spreadsheet",
+            "filetype": "gsheet",
+            "pretty_type": "GDocs Spreadsheet",
+            "user": "U3PTX9WER",
+            "editable": false,
+            "size": 71370,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1wZvbbjdRwmxjL-nb7oae-Mc7PEokUPQ76FRBnnJu1Bs\/edit?usp=sharing",
+            "thumb_64": "https:\/\/slack.com\/img\/files\/gsheet_64.v.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/b008f\/img\/files\/gsheet_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3PTX9WER\/F45MJ1FB8\/weather_songs_from_gypsy_played_feb_12_2017",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "lightning",
+                    "users": [
+                        "U3P3ZG1Q9"
+                    ],
+                    "count": 1
+                }
+            ],
+            "has_rich_preview": false
+        },
+        "user": "U3PTX9WER",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "stacia",
+        "bot_id": null,
+        "ts": "1487040268.000063"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I was thinking, and this week is definitely trivia week.",
+        "ts": "1487047573.000065"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Oh, Stacia's right.",
+        "ts": "1487047582.000066"
+    },
+    {
+        "text": "<https:\/\/scontent-ort2-1.xx.fbcdn.net\/v\/t1.0-9\/16729368_10154113024446744_3422399752409108963_n.jpg?oh=c82a1e89103139ee995e17e9421639f4&amp;oe=59498660>",
+        "attachments": [
+            {
+                "fallback": "720x661px image",
+                "image_url": "https:\/\/scontent-ort2-1.xx.fbcdn.net\/v\/t1.0-9\/16729368_10154113024446744_3422399752409108963_n.jpg?oh=c82a1e89103139ee995e17e9421639f4&oe=59498660",
+                "image_width": 720,
+                "image_height": 661,
+                "image_bytes": 55976,
+                "from_url": "https:\/\/scontent-ort2-1.xx.fbcdn.net\/v\/t1.0-9\/16729368_10154113024446744_3422399752409108963_n.jpg?oh=c82a1e89103139ee995e17e9421639f4&oe=59498660",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1487047582.000067",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U3QGW9KML"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

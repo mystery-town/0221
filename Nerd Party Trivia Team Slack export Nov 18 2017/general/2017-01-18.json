@@ -1,0 +1,734 @@
+[
+    {
+        "user": "U3TAVES85",
+        "text": "<@U3TAVES85> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484763489.000003"
+    },
+    {
+        "user": "U3P3ZG1Q9",
+        "topic": "Chat with trivia team members in the off season",
+        "text": "<@U3P3ZG1Q9> set the channel topic: Chat with trivia team members in the off season",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1484763494.000004"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, <@U3TAVES85>!",
+        "ts": "1484763521.000005"
+    },
+    {
+        "user": "U3SJ6J3CZ",
+        "text": "<@U3SJ6J3CZ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484765045.000006"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Woohoo!",
+        "ts": "1484765158.000007"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I love that this has a phone app, so if for some reason I have to leave my apartment during the contest, I can still keep tabs on it!",
+        "ts": "1484765205.000008",
+        "reactions": [
+            {
+                "name": "phone",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Not sure why you'd need to leave your apartment but okay. :slightly_smiling_face:",
+        "ts": "1484765292.000009"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Last year was the first year that I didn't have a funeral or something that weekend. This way, I could still play on my phone at the funeral!",
+        "ts": "1484765324.000010"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Just please don't play on your phone while you're driving!",
+        "ts": "1484765394.000011"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I will do my best. Hee hee. Slack will take a bit to get used to, but I already like it way more than our old system! :smile:",
+        "ts": "1484765420.000012"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "There are some cool features, like the ability to pin posts, search, add files, star posts so you can refer to them later, etc.",
+        "ts": "1484765492.000013"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Oh! I wanted to tell you guys...I am friends on Facebook with Chuck Wiser...one of the DJs and question writers. We were messaging, and I said something about last year's awful audio round with just driving sounds, and he said something like \"Hmmm...imagine how hard a round would be with just weather sounds from movies and tv shows...\", so I am wondering if there's gonna be that.",
+        "ts": "1484765547.000014"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "These remaining images are so frustrating. :confused:",
+        "ts": "1484765654.000015"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "OMG, I hope not!!",
+        "ts": "1484765660.000016",
+        "reactions": [
+            {
+                "name": "umbrella_with_rain_drops",
+                "users": [
+                    "U3SJ6J3CZ",
+                    "U3PTX9WER"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Ditto. I could see Sharknado and Twister being in it, but other than those, I am stumped. Lol.",
+        "ts": "1484765694.000017"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Love the search function, too. Definitely digging this!",
+        "ts": "1484766007.000018"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "What's the theme this year?",
+        "ts": "1484767680.000019"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Storms\/weather trivia. ",
+        "ts": "1484767733.000020"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Neat",
+        "ts": "1484767830.000021"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Sounds easier than sports",
+        "ts": "1484767843.000022"
+    },
+    {
+        "user": "U3U05BGES",
+        "text": "<@U3U05BGES> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484767856.000023"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Anything is better than sports. We tanked so hard that year.",
+        "ts": "1484767864.000024"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, Amber!",
+        "ts": "1484767890.000025"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Don't forget you can <!everyone> for important things",
+        "ts": "1484767978.000026"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I didn't know that! Thanks, Rob! Important things include: audio speed rounds, and requests for favorite pizza toppings",
+        "ts": "1484768031.000027"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "also, pictures of kittens probably",
+        "ts": "1484768052.000028"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "How much would it cost to get a higher level of slack for just a weekend? Might be worth it to not worry about losing chat history. They also give you a bit of credit to use towards that if the channel owner takes a survey",
+        "ts": "1484768118.000029"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "<!here> ",
+        "ts": "1484768136.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3TAVES85> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3TAVES85\/F3SK481HP\/vmjpxei.jpg|Slack for Android Upload>",
+        "file": {
+            "id": "F3SK481HP",
+            "created": 1484768149,
+            "timestamp": 1484768149,
+            "name": "VmJPXeI.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U3TAVES85",
+            "editable": false,
+            "size": 144601,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3SK481HP\/vmjpxei.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3SK481HP\/download\/vmjpxei.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_64.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_80.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_360.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_480.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 480,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_160.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3SK481HP-265ebeb406\/vmjpxei_720.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720_w": 720,
+            "thumb_720_h": 720,
+            "image_exif_rotation": 1,
+            "original_w": 960,
+            "original_h": 960,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3TAVES85\/F3SK481HP\/vmjpxei.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F3SK481HP-f832abe965",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "heart_eyes_cat",
+                    "users": [
+                        "U3P3ZG1Q9",
+                        "U3PTX9WER",
+                        "U3PSHA2RY"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U3TAVES85",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "rob",
+        "bot_id": null,
+        "ts": "1484768149.000031"
+    },
+    {
+        "type": "message",
+        "user": "U3U05BGES",
+        "text": "Hi :-D",
+        "ts": "1484768154.000032"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3TAVES85> I think the higher level would be a bit cost prohibitive. However, we are thinking about installing a bot that allows anyone to export the entire chat history at any time. So, if you really needed to search back more than 10,000 lines, you could export and then ctrl+f the export for things.",
+        "ts": "1484768585.000033"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Chat history is not lost... it just becomes unsearchable in the free version after 10,000 lines",
+        "ts": "1484768616.000034"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Just checked, it's $8 per user per month, but I got $150 in credit when starting my channel.",
+        "ts": "1484768759.000036"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Our team is up to almost 60 people, so that would be almost $500. :confused:",
+        "ts": "1484768840.000037"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3SJ6J3CZ> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F3U0G8YQN\/narnia._.jpg|Narnia.>",
+        "file": {
+            "id": "F3U0G8YQN",
+            "created": 1484768949,
+            "timestamp": 1484768949,
+            "name": "Narnia. .jpg",
+            "title": "Narnia.",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U3SJ6J3CZ",
+            "editable": false,
+            "size": 1084816,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U0G8YQN\/narnia._.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U0G8YQN\/download\/narnia._.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__64.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__80.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__360.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__480.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__160.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__720.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__960.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__1024.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1512,
+            "original_h": 2016,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F3U0G8YQN\/narnia._.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F3U0G8YQN-89bac4114b",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "reactions": [
+                {
+                    "name": "heart_eyes_cat",
+                    "users": [
+                        "U3P3ZG1Q9",
+                        "U3PTX9WER"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U3SJ6J3CZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "kurt",
+        "bot_id": null,
+        "ts": "1484768952.000038"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "How often do we search back that far in chat, though?",
+        "ts": "1484768988.000039"
+    },
+    {
+        "user": "U3U0TU7K9",
+        "text": "<@U3U0TU7K9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484769012.000040"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I would say there's at least a few times during the competition where we need to find something from 10+ hours ago. Although I think that exporting the channel and searching locally is a decent (and free) solution to that problem.",
+        "ts": "1484769040.000041"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, Stephen!",
+        "ts": "1484769052.000042"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I totally agree. ",
+        "ts": "1484769053.000043"
+    },
+    {
+        "type": "message",
+        "user": "U3U0TU7K9",
+        "text": "Well this all works.",
+        "ts": "1484769203.000045"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I do much prefer this. ",
+        "ts": "1484769221.000046"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "I wasn't sure how many people were signed up, don't remember having that many in the past",
+        "ts": "1484769385.000047"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Well, I think the most we've had on at a time is 15 people, but folks rotate in and out all weekend.",
+        "ts": "1484769453.000048"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Will there be a different channel used for the contest, or use this one?",
+        "ts": "1484769703.000051"
+    },
+    {
+        "user": "U3TCE3PL4",
+        "text": "<@U3TCE3PL4> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484769719.000052"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I'll invite everyone to <#C3QFHC1DM|triviaweekend> for the contest so we can hopefully keep this for chit-chat and that for Trivia Business.",
+        "ts": "1484769747.000053"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Sounds good! :+1:",
+        "ts": "1484769760.000054"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "There's also <#C3PSVE6DA|images> just because we were testing out having more than one channel.",
+        "ts": "1484769768.000055"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "So if you want to complain about the booger crocodiles, go there.",
+        "ts": "1484769786.000056"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, <@U3TCE3PL4>!",
+        "ts": "1484769807.000057"
+    },
+    {
+        "type": "message",
+        "user": "U3TCE3PL4",
+        "text": "Hi!",
+        "ts": "1484770437.000058"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Is this Tinder? Netflix and chill, anyone? :wink:",
+        "ts": "1484770753.000059"
+    },
+    {
+        "user": "U3SL363UH",
+        "text": "<@U3SL363UH> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484771541.000060"
+    },
+    {
+        "user": "U3TD4RP9S",
+        "text": "<@U3TD4RP9S> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484772358.000061"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Is there an easy way to minimize this somehow to have it available the same time we are using the browser during the contest, like I had with my old chat window?",
+        "ts": "1484772436.000062"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "how do you mean minimize?",
+        "ts": "1484772458.000063"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "With Pidgin, I was able to put the chat down in a corner of my screen, so I could browse and keep an eye on the chat at the same time.",
+        "ts": "1484772559.000064"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "oh… i don’t know if there is a mini-view for slack… there might be a plugin for it.  i can resize the window - it’s about half my screen right now.  and if you close the channel details pane on the right you could probably get it smaller",
+        "ts": "1484772632.000065"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I'll play around with it! :+1:",
+        "ts": "1484772655.000066"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "you should definitely download the native application for whatever is your O\/S of choice. far better experience than in-browser.",
+        "ts": "1484772693.000067"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I just did...and i agree, it's much better!",
+        "ts": "1484772715.000068"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Yes, the desktop version is essential! Download it here: <https:\/\/slack.com\/downloads\/>",
+        "attachments": [
+            {
+                "title": "Download Slack for your device | Slack",
+                "title_link": "https:\/\/slack.com\/downloads\/",
+                "text": "Sign in to multiple teams, get desktop notifications, and launch right from your dock.",
+                "fallback": "Download Slack for your device | Slack",
+                "from_url": "https:\/\/slack.com\/downloads\/",
+                "service_icon": "https:\/\/a.slack-edge.com\/66f9\/img\/icons\/ios-152.png",
+                "service_name": "slack.com",
+                "id": 1
+            }
+        ],
+        "ts": "1484772926.000069"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3QGW9KML> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3QGW9KML\/F3U1MJLA2\/screen_shot_2017-01-18_at_2.57.08_pm.png|Screen Shot 2017-01-18 at 2.57.08 PM.png> and commented: This is as small as I could get the window on my 13” macbook.",
+        "file": {
+            "id": "F3U1MJLA2",
+            "created": 1484773086,
+            "timestamp": 1484773086,
+            "name": "Screen Shot 2017-01-18 at 2.57.08 PM.png",
+            "title": "Screen Shot 2017-01-18 at 2.57.08 PM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U3QGW9KML",
+            "editable": false,
+            "size": 7412857,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U1MJLA2\/screen_shot_2017-01-18_at_2.57.08_pm.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U1MJLA2\/download\/screen_shot_2017-01-18_at_2.57.08_pm.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_64.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_80.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_360.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 360,
+            "thumb_360_h": 225,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_480.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 480,
+            "thumb_480_h": 300,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_160.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_720.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720_w": 720,
+            "thumb_720_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_960.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_960_w": 960,
+            "thumb_960_h": 600,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U1MJLA2-4edc23a6b7\/screen_shot_2017-01-18_at_2.57.08_pm_1024.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 640,
+            "image_exif_rotation": 1,
+            "original_w": 3360,
+            "original_h": 2100,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3QGW9KML\/F3U1MJLA2\/screen_shot_2017-01-18_at_2.57.08_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F3U1MJLA2-289a63a1c8",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3TB2LSV8",
+                "created": 1484773086,
+                "timestamp": 1484773086,
+                "user": "U3QGW9KML",
+                "is_intro": true,
+                "comment": "This is as small as I could get the window on my 13” macbook."
+            }
+        },
+        "user": "U3QGW9KML",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "barry",
+        "bot_id": null,
+        "ts": "1484773091.000071"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "That would work! I'll have to try it!",
+        "ts": "1484773132.000072"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Can't believe the contest is just a month away!",
+        "ts": "1484773198.000073"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Only a single monitor? Pleb",
+        "ts": "1484773354.000074",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U3P3ZG1Q9",
+                    "U3PSHA2RY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Worse comes to worse, I can use my browser during the contest and monitor the chat the same time on my phone.",
+        "ts": "1484773409.000075"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Although the pop up notifications on my computer when Slack is minimized definitely work, too.",
+        "ts": "1484773470.000076"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Apparently I can also setup access to it via IRC and\/or XMPP, so if people have a burning need to use Pidgin, I can accommodate that for sure.",
+        "ts": "1484773516.000077",
+        "reactions": [
+            {
+                "name": "fire_engine",
+                "users": [
+                    "U3QGW9KML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Boop",
+        "ts": "1484773543.000078",
+        "reactions": [
+            {
+                "name": "dog2",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "The only real benefit I had with pidgin was keeping the chat window on top, so I could always see the chat and see if someone got the question answered while I was searching. Slack still has way more benefits, in my opinion!",
+        "ts": "1484774420.000079"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I'm so keeping my fingers crossed for us to finally break into the top ten this year!",
+        "ts": "1484774620.000080"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Actually, the notifications when someone posts works better, I think! Kudos for thinking of using this for the contest!!! :+1::+1::+1:",
+        "ts": "1484775324.000081"
+    },
+    {
+        "user": "U3TH758NQ",
+        "text": "<@U3TH758NQ> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484793217.000082"
+    },
+    {
+        "user": "U3THCEWQL",
+        "text": "<@U3THCEWQL> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484794449.000083"
+    },
+    {
+        "type": "message",
+        "user": "U3TH758NQ",
+        "text": ":dusty_stick:",
+        "ts": "1484798911.000084",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3TH758NQ",
+        "text": "Just what I've always needed, a dusty stick emoji.",
+        "ts": "1484798925.000085"
+    }
+]

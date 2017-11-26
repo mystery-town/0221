@@ -1,0 +1,318 @@
+[
+    {
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3P3ZG1Q9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484084893.491048"
+    },
+    {
+        "user": "U3PSEC67N",
+        "text": "<@U3PSEC67N> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484085748.000002"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "I am here",
+        "ts": "1484085799.000003"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hello!",
+        "ts": "1484085814.000004"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "getting set up was very easy, even for a dope like me",
+        "ts": "1484085816.000005"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "I can't computer very well",
+        "ts": "1484085824.000006"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "so A+",
+        "ts": "1484085828.000007"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "haha, good to know!",
+        "ts": "1484085833.000008"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "So, some thoughts we have about this as a chat room is that maybe we could use hashtags to tag #answer guesses.",
+        "ts": "1484085926.000009"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "ooo",
+        "ts": "1484085933.000010"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "#piebot",
+        "ts": "1484085944.000011"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Or possibly not, as those hashtags didn't seem to do anything.",
+        "ts": "1484085956.000012"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "I can't make it do stuff but see my above comment re: computering",
+        "ts": "1484085976.000013"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "You can search the hashtags, but it only lets you search the last 10,000 posts.",
+        "ts": "1484085997.000014"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "So if 50 of us are in here posting 200 things a minute that could be a problem.",
+        "ts": "1484086028.000015"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "But maybe if we are less verbose than that it will be fine.",
+        "ts": "1484086045.000016"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "that will be a challenge for me",
+        "ts": "1484086205.000017"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "but at least, like, if we #question1",
+        "ts": "1484086219.000018"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "I mean, would we need to search back to a question from three days prior?",
+        "ts": "1484086259.000019"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I feel like we've needed to search for something that was said 15 hours ago before.",
+        "ts": "1484086380.000020"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "hmm",
+        "ts": "1484086390.000021"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "But Stacia and I are talking about ways to possibly save and access chat logs externally in those instances.",
+        "ts": "1484086402.000022"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "One minor thing is when I switch to a different tab, I am not alerted when a new message appears",
+        "ts": "1484086804.000023"
+    },
+    {
+        "type": "message",
+        "user": "U3PSEC67N",
+        "text": "but that can be nice, in trivia, when we're all frenetically searching",
+        "ts": "1484086815.000024"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "There is a desktop app you can download for more settings.",
+        "ts": "1484087607.000025"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "So I might suggest that people who are going to be trivia-ing the whole weekend do that.",
+        "ts": "1484087627.000026"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I added a channel for discussion about <#C3PSVE6DA|images>!",
+        "ts": "1484087694.000027"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "okay, signing off so I can get some work done at work",
+        "ts": "1484087779.000028"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "thanks, kate!!",
+        "ts": "1484087785.000029"
+    },
+    {
+        "user": "U3PTX9WER",
+        "text": "<@U3PTX9WER> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484091531.000002"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I think the hashtags are just for channels. Otherwise known as rooms in normal chat speak.",
+        "ts": "1484092349.000002"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<#C3PSVE6DA|images> is so hot right now",
+        "ts": "1484092383.000003"
+    },
+    {
+        "user": "U3QGW9KML",
+        "text": "<@U3QGW9KML> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484097972.000002"
+    },
+    {
+        "user": "U3PSHA2RY",
+        "text": "<@U3PSHA2RY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484099357.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U3PSHA2RY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 10th, 2017 2:06 PM] schmidtty: I can't make it do stuff but see my above comment re: computering",
+                "ts": "1484085976.000013",
+                "author_id": "U3PSEC67N",
+                "author_subname": "Kate Schmidt",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "I can't make it do stuff but see my above comment re: computering",
+                "author_name": "Kate Schmidt",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/U3PSEC67N",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/e0c02fdb416daf9d34114bfef323ca4c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F272a%2Fimg%2Favatars%2Fava_0026-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U3PSHA2RY> pinned a message to this channel.",
+        "ts": "1484100202.000003"
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "you can pin and un-pin posts easily, so we could pin open questions and un-pin them when they are closed or we have already answered them.",
+        "ts": "1484101345.000004",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U3PTX9WER",
+                    "U3P3ZG1Q9",
+                    "U3QAZR6D6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U3PSHA2RY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 10th, 2017 6:22 PM] tiffany: you can pin and un-pin posts easily, so we could pin open questions and un-pin them when they are closed or we have already answered them.",
+                "ts": "1484101345.000004",
+                "author_id": "U3PSHA2RY",
+                "author_subname": "Tiffany Rodgers",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "you can pin and un-pin posts easily, so we could pin open questions and un-pin them when they are closed or we have already answered them.",
+                "author_name": "Tiffany Rodgers",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/U3PSHA2RY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-18\/143478151922_bdd1f51331c42efb2c05_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U3PSHA2RY> pinned a message to this channel.",
+        "ts": "1484101353.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U3PSHA2RY",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 10th, 2017 2:33 PM] autumn: There is a desktop app you can download for more settings.",
+                "ts": "1484087607.000025",
+                "author_id": "U3P3ZG1Q9",
+                "author_subname": "Autumn Patterson",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "There is a desktop app you can download for more settings.",
+                "author_name": "Autumn Patterson",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/U3P3ZG1Q9",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-01-10\/125822656066_f91ccb683a72d62484ac_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U3PSHA2RY> pinned a message to this channel.",
+        "ts": "1484101497.000006"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": ":bug: ",
+        "ts": "1484107122.000002"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": ":pride: ",
+        "ts": "1484107135.000003"
+    }
+]

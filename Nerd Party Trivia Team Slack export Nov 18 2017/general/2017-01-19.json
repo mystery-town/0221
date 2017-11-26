@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Is that celery? Nature's toothbrush?",
+        "ts": "1484841988.000086"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3QGW9KML> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3QGW9KML\/F3TUSTMM3\/pasted_image_at_2017_01_19_12_54_pm.png|celery brush> and commented: Same expression I have when I brush with celery.",
+        "file": {
+            "id": "F3TUSTMM3",
+            "created": 1484852079,
+            "timestamp": 1484852079,
+            "name": "Pasted image at 2017_01_19 12_54 PM.png",
+            "title": "celery brush",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U3QGW9KML",
+            "editable": false,
+            "size": 661048,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3TUSTMM3\/pasted_image_at_2017_01_19_12_54_pm.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3TUSTMM3\/download\/pasted_image_at_2017_01_19_12_54_pm.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3TUSTMM3-6659ef6079\/pasted_image_at_2017_01_19_12_54_pm_64.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3TUSTMM3-6659ef6079\/pasted_image_at_2017_01_19_12_54_pm_80.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3TUSTMM3-6659ef6079\/pasted_image_at_2017_01_19_12_54_pm_360.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3TUSTMM3-6659ef6079\/pasted_image_at_2017_01_19_12_54_pm_480.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 480,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3TUSTMM3-6659ef6079\/pasted_image_at_2017_01_19_12_54_pm_160.png?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "image_exif_rotation": 1,
+            "original_w": 560,
+            "original_h": 560,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3QGW9KML\/F3TUSTMM3\/pasted_image_at_2017_01_19_12_54_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F3TUSTMM3-517e43957f",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3T68BVR7",
+                "created": 1484852079,
+                "timestamp": 1484852079,
+                "user": "U3QGW9KML",
+                "is_intro": true,
+                "comment": "Same expression I have when I brush with celery."
+            }
+        },
+        "user": "U3QGW9KML",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "barry",
+        "bot_id": null,
+        "ts": "1484852082.000087"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Lol. ",
+        "ts": "1484855344.000089"
+    },
+    {
+        "user": "U3U0YNG3E",
+        "text": "<@U3U0YNG3E> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484858596.000090"
+    },
+    {
+        "user": "U3U0Z9F4K",
+        "text": "<@U3U0Z9F4K> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484881643.000093"
+    }
+]

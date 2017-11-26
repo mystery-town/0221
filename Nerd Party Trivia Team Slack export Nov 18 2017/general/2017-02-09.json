@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U41VCDCB1> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U41VCDCB1\/F43LUJLVB\/weather_facts.txt|Weather Facts>",
+        "file": {
+            "id": "F43LUJLVB",
+            "created": 1486688076,
+            "timestamp": 1486688076,
+            "name": "Weather_Facts.txt",
+            "title": "Weather Facts",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U41VCDCB1",
+            "editable": true,
+            "size": 2320,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F43LUJLVB\/weather_facts.txt?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F43LUJLVB\/download\/weather_facts.txt?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U41VCDCB1\/F43LUJLVB\/weather_facts.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F43LUJLVB-cc98bf312b",
+            "edit_link": "https:\/\/nerdpartytrivia.slack.com\/files\/U41VCDCB1\/F43LUJLVB\/weather_facts.txt\/edit",
+            "preview": "Hot and Cold weather facts:\r\nAl'Aziziyah in Libya has the highest recorded temperature on earth at a sweltering 58°C on the 13th Sept, 1922.\r\n\r\nThe lowest ever recorded world temperature was at Vostok Station, Antarctica on the 21 July 1983 at a bitter -89.6°C\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Hot and Cold weather facts:<\/pre><\/div>\n<div><pre>Al'Aziziyah in Libya has the highest recorded temperature on earth at a sweltering 58°C on the 13th Sept, 1922.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>The lowest ever recorded world temperature was at Vostok Station, Antarctica on the 21 July 1983 at a bitter -89.6°C<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 39,
+            "lines_more": 34,
+            "preview_is_truncated": true,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U3SJ6J3CZ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U41VCDCB1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "notetaker",
+        "bot_id": null,
+        "ts": "1486688077.000014"
+    }
+]

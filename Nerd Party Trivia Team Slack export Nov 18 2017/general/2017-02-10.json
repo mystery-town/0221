@@ -1,0 +1,180 @@
+[
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "How were they able to measure the world's largest snowflake before it melted? I'm very confused about that.",
+        "ts": "1486733823.000016"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "picture?",
+        "ts": "1486742025.000017"
+    },
+    {
+        "user": "U43SXS4TC",
+        "text": "<@U43SXS4TC> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486743668.000018"
+    },
+    {
+        "user": "U441NNUUV",
+        "text": "<@U441NNUUV> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486748748.000019"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3V18H78E> mentioned on the forum about the Mark Trail NOAA comics... There's a full archive of them online here. Very cool stuff! <http:\/\/www.education.noaa.gov\/Special_Topics\/Mark_Trail_and_NOAA.php>",
+        "attachments": [
+            {
+                "title": "NOAA Education Resources: Mark Trail and NOAA Archive",
+                "title_link": "http:\/\/www.education.noaa.gov\/Special_Topics\/Mark_Trail_and_NOAA.php",
+                "text": "Archive of Mark Trail comic strips created by Jack Elrod with NOAA themes. Provided by permission of King Features Syndicate",
+                "fallback": "NOAA Education Resources: Mark Trail and NOAA Archive",
+                "from_url": "http:\/\/www.education.noaa.gov\/Special_Topics\/Mark_Trail_and_NOAA.php",
+                "service_icon": "http:\/\/www.education.noaa.gov\/favicon.ico",
+                "service_name": "education.noaa.gov",
+                "id": 1
+            }
+        ],
+        "ts": "1486759344.000020"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Related, there's a Mark Trail\/NOAA National Weather Service related puzzle geocache in Seattle! <@U3SJ6J3CZ> take note! <https:\/\/www.geocaching.com\/geocache\/GC17EPY_mark-trail?guid=89ea279f-e513-43aa-af2a-0211ce6c514a>",
+        "edited": {
+            "user": "U3P3ZG1Q9",
+            "ts": "1486759511.000000"
+        },
+        "ts": "1486759488.000022",
+        "reactions": [
+            {
+                "name": "pbj",
+                "users": [
+                    "U3SJ6J3CZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U44PM1N8P",
+        "text": "<@U44PM1N8P> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486764913.000025"
+    },
+    {
+        "user": "U43BZAH32",
+        "text": "<@U43BZAH32> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486765222.000026"
+    },
+    {
+        "type": "message",
+        "user": "U43BZAH32",
+        "text": "Hi Stacia!  Thought I would let you know that I did finally sign in (Marty Hillman).",
+        "ts": "1486765324.000027"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Welcome <@U44PM1N8P> and <@U43BZAH32> !",
+        "ts": "1486765520.000029"
+    },
+    {
+        "type": "message",
+        "user": "U43BZAH32",
+        "text": "Thanks!",
+        "ts": "1486765568.000030"
+    },
+    {
+        "type": "message",
+        "user": "U43BZAH32",
+        "text": "Now back to reinstalling my Mac.  :slightly_smiling_face:. One more week!",
+        "ts": "1486765590.000031",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yay! I will be getting ready one week from right now!!! I made the decision today that this year will be all GOOD food. No pizza, no bags of Doritos, no reheated Burger King sandwiches. I want to be in tip-top trivia shape!",
+        "ts": "1486765699.000033"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Get that veggie tray ready!",
+        "ts": "1486765795.000034"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yes! And fruit tray.",
+        "ts": "1486765807.000035"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Maybe one pizza...",
+        "ts": "1486765815.000036"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "No! No pizza. Maybe a veggie pizza...",
+        "ts": "1486765838.000037",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U3P3ZG1Q9",
+                    "U3QAZR6D6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eggplant",
+                "users": [
+                    "U3PSHA2RY",
+                    "U3PTX9WER"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U3QGW9KML"
+                ],
+                "count": 1
+            },
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U3TAVES85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Maybe a pizza of it has pineapple?? ",
+        "ts": "1486782580.000044"
+    }
+]

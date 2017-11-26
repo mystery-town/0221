@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "2 weeks to go! :shamrock: :partyparrot: ",
+        "ts": "1486135341.000002",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U3SJ6J3CZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": ":pbj: ",
+        "ts": "1486135348.000003",
+        "reactions": [
+            {
+                "name": "banana",
+                "users": [
+                    "U3PSHA2RY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

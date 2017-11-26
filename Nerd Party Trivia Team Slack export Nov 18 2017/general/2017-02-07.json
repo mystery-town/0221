@@ -1,0 +1,27 @@
+[
+    {
+        "user": "U42S230T0",
+        "text": "<@U42S230T0> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486489592.000010"
+    },
+    {
+        "type": "message",
+        "user": "U3TPN5J4Q",
+        "text": "Hey, I never got a forums invite. Can anyone help with that?",
+        "ts": "1486513555.000011"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3TPN5J4Q> I can help you. I'm direct messaging you here.",
+        "ts": "1486520759.000012"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Thanks, Stacia! Derek is a friend of mine. ",
+        "ts": "1486521618.000013"
+    }
+]

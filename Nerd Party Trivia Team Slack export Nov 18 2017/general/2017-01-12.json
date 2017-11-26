@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U3REGPRB8",
+        "text": "<@U3REGPRB8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484244036.000035"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "<!here|@here> so there are options for apps that you can add to slack - I believe the free version gives us the option of up to 10.  I can’t speak highly enough about Giphy to start…   there are a lot of apps to choose from",
+        "ts": "1484261586.000036"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "you can also customize responses - which the slackbot will post randomly and everyone will groan at.  <https:\/\/nerdpartytrivia.slack.com\/customize\/slackbot>",
+        "ts": "1484262222.000037"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "for instance - movie quote",
+        "ts": "1484262228.000038"
+    },
+    {
+        "text": "“Ya Ta!” – Hiro Nakamura, Heroes",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1484262229.000039"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "We have a secret word bit in some of our HipChat rooms at work. It was super fun for a while. The PeeWee's Playhouse scream sequence would play.",
+        "ts": "1484270434.000040"
+    },
+    {
+        "user": "U3QAZR6D6",
+        "text": "<@U3QAZR6D6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484286435.000041"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Interesting... What's the consensus so far with using Slack? ",
+        "ts": "1484286693.000042",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3QGW9KML",
+                    "U3PTX9WER",
+                    "U3TAVES85"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "BTW, I've got two new friends who want to play trivia. Both are out of state (PA, CA). ",
+        "ts": "1484286742.000043"
+    }
+]

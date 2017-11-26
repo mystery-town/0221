@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U44T9PE1M",
+        "text": "<@U44T9PE1M> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486821690.000046"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Oooooh...yum! Wait, no! No pizza this year, darnit!!!!",
+        "ts": "1486822562.000047"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "<http:\/\/www.songfacts.com\/category-songs_with_weather_conditions_in_the_title.php>",
+        "attachments": [
+            {
+                "title": "Songfacts - Songs with Weather Conditions in the Title",
+                "title_link": "http:\/\/www.songfacts.com\/category-songs_with_weather_conditions_in_the_title.php",
+                "text": "Songfacts category - Songs with Weather Conditions in the Title",
+                "fallback": "Songfacts - Songs with Weather Conditions in the Title",
+                "from_url": "http:\/\/www.songfacts.com\/category-songs_with_weather_conditions_in_the_title.php",
+                "service_icon": "http:\/\/www.songfacts.com\/favicon.ico",
+                "service_name": "songfacts.com",
+                "id": 1
+            }
+        ],
+        "ts": "1486843605.000048"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "<http:\/\/www.momjunction.com\/articles\/names-that-mean-sky-rain-air-wind-cloud_00401056\/#gref>",
+        "attachments": [
+            {
+                "service_name": "MomJunction",
+                "title": "85 Baby Names That Mean Sky, Rain, Air, Wind, Or Cloud",
+                "title_link": "http:\/\/www.momjunction.com\/articles\/names-that-mean-sky-rain-air-wind-cloud_00401056\/#gref",
+                "text": "Looking for a weather-inspired baby name for little tot? Well! Here is our collection of 85 baby names that mean sky, rain, air, wind or cloud. Scroll down!",
+                "fallback": "MomJunction: 85 Baby Names That Mean Sky, Rain, Air, Wind, Or Cloud",
+                "image_url": "http:\/\/cdn2.momjunction.com\/wp-content\/uploads\/2016\/05\/85-Baby-Names-That-Mean-Sky-Rain-Air-Wind-Or-Cloud.jpg",
+                "ts": 1464268116,
+                "from_url": "http:\/\/www.momjunction.com\/articles\/names-that-mean-sky-rain-air-wind-cloud_00401056\/#gref",
+                "image_width": 66,
+                "image_height": 250,
+                "image_bytes": 505751,
+                "service_icon": "http:\/\/www.momjunction.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1486844002.000050"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "Can't believe the new parents on our team didn't pick a weather-related name for their children. :baby:",
+        "ts": "1486844058.000052"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Regarding previous years questions, because they allowed us to buy previous years questions I'm wondering if that is going to be a question or maybe even an hour of questions in this year's trivia. For example they could take the first letter of different questions and different hours to spell a phrase. I'll be bringing some of my previous years questions. Along with Stacia we should have a pretty good set.",
+        "ts": "1486858487.000053"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Is it wrong that I'm annoyed it's going to be 50 degrees here next weekend? Trivia Weekend should be cold and snowy, not springlike! ",
+        "ts": "1486876568.000054"
+    }
+]

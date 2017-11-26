@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U3V18H78E",
+        "text": "<@U3V18H78E> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484928993.000002"
+    },
+    {
+        "user": "U3TPN5J4Q",
+        "text": "<@U3TPN5J4Q> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484947239.000003"
+    }
+]

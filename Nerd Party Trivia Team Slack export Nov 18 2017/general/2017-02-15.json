@@ -1,0 +1,342 @@
+[
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "I remember this one in my Skywarn spotting class:\nIn what month(s) has Minnesota never reported a tornado?\nANS:\nLooking through all of the weather records for Minnesota, a tornado has been reported in every month of the year.",
+        "edited": {
+            "user": "U3QAZR6D6",
+            "ts": "1487166732.000000"
+        },
+        "ts": "1487166697.000073"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "that's crazy, craigpl.",
+        "ts": "1487170094.000076"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "List of Slack keyboard shortcuts in case anyone is into that sort of thing: <https:\/\/get.slack.help\/hc\/en-us\/articles\/201374536-Slack-keyboard-shortcuts>",
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "Slack keyboard shortcuts",
+                "title_link": "https:\/\/get.slack.help\/hc\/en-us\/articles\/201374536-Slack-keyboard-shortcuts",
+                "text": "Note: There's not yet a way to set custom keyboard shortcuts for Slack, but we may add it in the future! For now, use the shortcut below to see a quick list in Slack.   Quick list of shortcuts ...",
+                "fallback": "Slack Help Center: Slack keyboard shortcuts",
+                "from_url": "https:\/\/get.slack.help\/hc\/en-us\/articles\/201374536-Slack-keyboard-shortcuts",
+                "thumb_url": "http:\/\/p6.zdassets.com\/hc\/settings_assets\/138842\/200037786\/tVWtDMFpmsjxCExXUymhUA-help-center-unfurl-image.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http:\/\/p6.zdassets.com\/hc\/settings_assets\/138842\/200037786\/qAcPwjRj8GyOvYwxebxeXg-favicon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1487177236.000077"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "We find a good bot\/plugin to keep track of currently open questions? And for exporting chat history?",
+        "ts": "1487177929.000079"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3TAVES85> we'll pin open questions, and unpin them when they are closed or we got it right.",
+        "ts": "1487178074.000080"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Pinned posts appear in a side panel to the right",
+        "ts": "1487178106.000081"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Does anyone have a Hulu subscription? I was thinking about signing up for the one week trial just for trivia.",
+        "ts": "1487182866.000082"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Tiff and I have Netflix &amp; Amazon Prime... are there any other movie or book rental services that might be useful?",
+        "ts": "1487182899.000083"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I signed up for Kindle Unlimited trial. Hulu is a good idea. I have Netflix and prime too. And HBO.",
+        "ts": "1487183174.000084"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I've got $7 in my Play account",
+        "ts": "1487183288.000085"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Do we want a VPN for torrents?",
+        "ts": "1487183523.000086"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3TAVES85> Maybe, but I worry about clogging my pipes with big downloads. However, I see that the semi-official Trivia movie this year is the Batman Lego movie. Does anyone have plans to see it? Or, we could, uh, look for it elsewhere via VPN.",
+        "ts": "1487183727.000087"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Wait, how do you know that?",
+        "ts": "1487183758.000088"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "I just remember finding some of the answers last year in some comics that we torrented",
+        "ts": "1487183854.000089"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3P3ZG1Q9> <https:\/\/www.facebook.com\/photo.php?fbid=1403077606389791&amp;set=o.163571267123703&amp;type=3&amp;theater>",
+        "attachments": [
+            {
+                "title": "Chuck Wiser - 2nd Annual KVSC Trivia Movie: LEGO BATMAN... | Facebook",
+                "title_link": "https:\/\/www.facebook.com\/photo.php?fbid=1403077606389791&set=o.163571267123703&type=3&theater",
+                "text": "2nd Annual KVSC Trivia Movie: LEGO BATMAN Thursday, Feb 16th. Quarry Cinema, 9:00 PM showtime. $6 ticket. Hows does that sound to you all? Plan ahead and...",
+                "fallback": "Chuck Wiser - 2nd Annual KVSC Trivia Movie: LEGO BATMAN... | Facebook",
+                "from_url": "https:\/\/www.facebook.com\/photo.php?fbid=1403077606389791&set=o.163571267123703&type=3&theater",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yV\/r\/hzMapiNYYpW.ico",
+                "service_name": "facebook.com",
+                "id": 1
+            }
+        ],
+        "ts": "1487184533.000090"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "good point <@U3TAVES85>",
+        "ts": "1487184545.000092"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3P3ZG1Q9>  remember last year they asked all these questions about a superhero movie that had just come out. Kate was the only one who had seen it.",
+        "ts": "1487184635.000093"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "And I'd like to not get you in trouble with your isp",
+        "ts": "1487184660.000094"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Kate and Ann had seen it... it was Deadpool. And I think between the two of them we got all of the questions about it correct. :slightly_smiling_face:",
+        "ts": "1487184837.000095"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "If someone has an iPhone, it might be interesting to have a list of Siri's Lego Batman related responses... <http:\/\/www.businessinsider.com\/lego-batman-easter-egg-siri-assistant-iphone-mac-apple-hidden-2017-2>",
+        "attachments": [
+            {
+                "service_name": "Business Insider",
+                "title": "There's a neat 'Lego Batman' Easter egg hidden in Apple's Siri",
+                "title_link": "http:\/\/www.businessinsider.com\/lego-batman-easter-egg-siri-assistant-iphone-mac-apple-hidden-2017-2",
+                "text": "'Welcome home, sir. I have your rom coms queued up, sorted by the decade.'",
+                "fallback": "Business Insider: There's a neat 'Lego Batman' Easter egg hidden in Apple's Siri",
+                "image_url": "http:\/\/static6.businessinsider.com\/image\/58a46d4fdd0895152c8b473f-506-253\/theres-a-neat-lego-batman-easter-egg-hidden-in-apples-siri.jpg",
+                "from_url": "http:\/\/www.businessinsider.com\/lego-batman-easter-egg-siri-assistant-iphone-mac-apple-hidden-2017-2",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 23779,
+                "service_icon": "http:\/\/static3.businessinsider.com\/assets\/images\/us\/favicons\/apple-touch-icon-57x57.png?v=BI-US-2016-03-31",
+                "id": 1
+            }
+        ],
+        "ts": "1487184977.000096"
+    },
+    {
+        "type": "message",
+        "user": "U3THCEWQL",
+        "text": "Chris and I are going to see Lego Batman on Saturday probably (got snowed out last weekend).",
+        "ts": "1487186176.000098"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Alright! Keep your eyes peeled :eyes:",
+        "ts": "1487186213.000099"
+    },
+    {
+        "type": "message",
+        "user": "U3THCEWQL",
+        "text": "yeah I told Chris to try to remember insignificant details :smiley:",
+        "ts": "1487186230.000100"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Yes, like how much is the Segway tour?",
+        "ts": "1487186251.000101"
+    },
+    {
+        "user": "U45U8PA9Z",
+        "text": "<@U45U8PA9Z> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487187253.000102"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, Malena!",
+        "ts": "1487187544.000103"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Hello!",
+        "ts": "1487187555.000104"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3PTX9WER> shared a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3PTX9WER\/F45ADS8M7\/wea|Weather and Music: doi:10.1002\/wea.2464>",
+        "file": {
+            "id": "F45ADS8M7",
+            "created": 1487187563,
+            "timestamp": 1487187563,
+            "name": "wea",
+            "title": "Weather and Music: doi:10.1002\/wea.2464",
+            "mimetype": "application\/vnd.google-apps.spreadsheet",
+            "filetype": "gsheet",
+            "pretty_type": "GDocs Spreadsheet",
+            "user": "U3PTX9WER",
+            "editable": false,
+            "size": 255213,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1IkSywcgx84_VbOWBhC0fd6RMpT1boPo1X2mnVzgFzKc\/edit#gid=1445723333",
+            "thumb_64": "https:\/\/slack.com\/img\/files\/gsheet_64.v.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/b008f\/img\/files\/gsheet_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3PTX9WER\/F45ADS8M7\/wea",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "num_stars": 1,
+            "has_rich_preview": false
+        },
+        "user": "U3PTX9WER",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "stacia",
+        "bot_id": null,
+        "ts": "1487187563.000107"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Wow, that is a very intense dataset!",
+        "ts": "1487187750.000109"
+    },
+    {
+        "user": "U46PN7QP9",
+        "text": "<@U46PN7QP9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487195935.000110"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U3QAZR6D6> commented on <@U3SJ6J3CZ>’s file <https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F3U0G8YQN\/narnia._.jpg|Narnia.>: Cute!",
+        "file": {
+            "id": "F3U0G8YQN",
+            "created": 1484768949,
+            "timestamp": 1484768949,
+            "name": "Narnia. .jpg",
+            "title": "Narnia.",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U3SJ6J3CZ",
+            "editable": false,
+            "size": 1084816,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U0G8YQN\/narnia._.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F3U0G8YQN\/download\/narnia._.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__64.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__80.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__360.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__480.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__160.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__720.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__960.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F3U0G8YQN-9308fed995\/narnia.__1024.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1512,
+            "original_h": 2016,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F3U0G8YQN\/narnia._.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F3U0G8YQN-89bac4114b",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "reactions": [
+                {
+                    "name": "heart_eyes_cat",
+                    "users": [
+                        "U3P3ZG1Q9",
+                        "U3PTX9WER"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "comment": {
+            "id": "Fc46TH58UX",
+            "created": 1487220794,
+            "timestamp": 1487220794,
+            "user": "U3QAZR6D6",
+            "is_intro": false,
+            "comment": "Cute!"
+        },
+        "is_intro": false,
+        "ts": "1487220794.000112"
+    }
+]

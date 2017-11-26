@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U41VCDCB1",
+        "text": "<@U41VCDCB1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486688135.000002"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "<http:\/\/www.erichstauffer.com\/pop-culture\/erich-stauffer-figurines>",
+        "attachments": [
+            {
+                "service_name": "Erich Stauffer",
+                "title": "Erich Stauffer Figurines - Price Guides, History, and Information",
+                "title_link": "http:\/\/www.erichstauffer.com\/pop-culture\/erich-stauffer-figurines",
+                "text": "About Erich Stauffer figurines by Arnart Creations. Erich Stauffer was a porcelain figurine artist for Arnart Imports, who imported fake Hummels from Japan.",
+                "fallback": "Erich Stauffer: Erich Stauffer Figurines - Price Guides, History, and Information",
+                "image_url": "http:\/\/www.erichstauffer.com\/wp-content\/uploads\/2013\/07\/Erich-Stauffer-Figurines-History-and-Price-Guide-600x248.png",
+                "ts": 1374715387,
+                "from_url": "http:\/\/www.erichstauffer.com\/pop-culture\/erich-stauffer-figurines",
+                "image_width": 600,
+                "image_height": 248,
+                "image_bytes": 117442,
+                "service_icon": "http:\/\/www.erichstauffer.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1486688312.000003",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U41VCDCB1",
+                "ts": "1486690281.000005"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1486688312.000003"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "Actually, this was not helpful at all. It doesn't even have images.",
+        "thread_ts": "1486688312.000003",
+        "parent_user_id": "U41VCDCB1",
+        "ts": "1486690281.000005"
+    }
+]

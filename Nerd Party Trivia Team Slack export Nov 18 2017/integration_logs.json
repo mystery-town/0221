@@ -1,0 +1,93 @@
+[
+    {
+        "user_id": "U3PTX9WER",
+        "user_name": "stacia",
+        "date": "1510008852",
+        "change_type": "added",
+        "service_id": "267978787204",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487490833",
+        "change_type": "removed",
+        "service_id": "143504118594",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487490701",
+        "change_type": "updated",
+        "service_id": "143504118594",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487490701",
+        "change_type": "updated",
+        "service_id": "143504118594",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487490645",
+        "change_type": "disabled",
+        "reason": "server",
+        "service_id": "143504118594",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487490607",
+        "change_type": "added",
+        "service_id": "143504118594",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U3TH758NQ",
+        "user_name": "rebeccacole",
+        "date": "1487400990",
+        "change_type": "added",
+        "service_id": "143445866373",
+        "service_type": "Twitter",
+        "scope": "incoming-webhook"
+    },
+    {
+        "user_id": "U3P3ZG1Q9",
+        "user_name": "autumn",
+        "date": "1487183367",
+        "change_type": "updated",
+        "service_id": "142078154773",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U3P3ZG1Q9",
+        "user_name": "autumn",
+        "date": "1487183358",
+        "change_type": "added",
+        "service_id": "142078154773",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1484084893",
+        "change_type": "added",
+        "service_id": "126493386998",
+        "service_type": "Google Drive",
+        "scope": "files:write:user"
+    }
+]

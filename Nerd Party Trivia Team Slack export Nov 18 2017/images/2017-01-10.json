@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3P3ZG1Q9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484087661.000002"
+    },
+    {
+        "user": "U3P3ZG1Q9",
+        "purpose": "Discuss trivia images",
+        "text": "<@U3P3ZG1Q9> set the channel purpose: Discuss trivia images",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1484087661.000003"
+    },
+    {
+        "user": "U3PTX9WER",
+        "text": "<@U3PTX9WER> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484092459.000002"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Not a hummel",
+        "ts": "1484092475.000003"
+    },
+    {
+        "user": "U3PSHA2RY",
+        "text": "<@U3PSHA2RY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484099894.000002"
+    },
+    {
+        "user": "U3QGW9KML",
+        "text": "<@U3QGW9KML> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484108725.000002"
+    }
+]

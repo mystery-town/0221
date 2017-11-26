@@ -1,0 +1,191 @@
+[
+    {
+        "id": "C3PPY3602",
+        "name": "general",
+        "created": "1484084893",
+        "creator": "U3P3ZG1Q9",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U3P3ZG1Q9",
+            "U3PSEC67N",
+            "U3PSHA2RY",
+            "U3PTX9WER",
+            "U3QAZR6D6",
+            "U3QGW9KML",
+            "U3REGPRB8",
+            "U3SJ6J3CZ",
+            "U3SL363UH",
+            "U3TAVES85",
+            "U3TCE3PL4",
+            "U3TD4RP9S",
+            "U3TH758NQ",
+            "U3THCEWQL",
+            "U3TPBQEHE",
+            "U3TPHUT5X",
+            "U3TPN5J4Q",
+            "U3TR57U81",
+            "U3U05BGES",
+            "U3U0TU7K9",
+            "U3U0YNG3E",
+            "U3U0Z9F4K",
+            "U3UGRMQ5B",
+            "U3UMMATV0",
+            "U3V18H78E",
+            "U3V9ED7FG",
+            "U3WHQMZD1",
+            "U40FH0H44",
+            "U41VCDCB1",
+            "U42S230T0",
+            "U43BZAH32",
+            "U43SXS4TC",
+            "U441NNUUV",
+            "U44PM1N8P",
+            "U44T9PE1M",
+            "U45EHS24U",
+            "U45U8PA9Z",
+            "U46PN7QP9",
+            "U479FFS20",
+            "U47ENNMU4"
+        ],
+        "pins": [
+            {
+                "id": "F47GZS6HJ",
+                "type": "F",
+                "user": "U3WHQMZD1",
+                "owner": "U41VCDCB1",
+                "created": 1487485137
+            },
+            {
+                "id": "F48593SHL",
+                "type": "F",
+                "user": "U3QGW9KML",
+                "owner": "U3QGW9KML",
+                "created": 1487485410
+            },
+            {
+                "id": "F485KD747",
+                "type": "F",
+                "user": "U3QGW9KML",
+                "owner": "U41VCDCB1",
+                "created": 1487490965
+            }
+        ],
+        "topic": {
+            "value": "Chat with trivia team members in the off season",
+            "creator": "U3P3ZG1Q9",
+            "last_set": "1484763494"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C3PSVE6DA",
+        "name": "images",
+        "created": "1484087661",
+        "creator": "U3P3ZG1Q9",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U3P3ZG1Q9",
+            "U3PSEC67N",
+            "U3PSHA2RY",
+            "U3PTX9WER",
+            "U3QAZR6D6",
+            "U3QGW9KML",
+            "U3REGPRB8",
+            "U3SJ6J3CZ",
+            "U3SL363UH",
+            "U3TAVES85",
+            "U3TCE3PL4",
+            "U3TD4RP9S",
+            "U3THCEWQL",
+            "U3TPBQEHE",
+            "U3TPN5J4Q",
+            "U3U05BGES",
+            "U3U0TU7K9",
+            "U3U0YNG3E",
+            "U3V18H78E",
+            "U3WHQMZD1",
+            "U41VCDCB1"
+        ],
+        "topic": {
+            "value": "http:\/\/trivia.heresyourwater.com\/, http:\/\/whatarethesethings.weebly.com",
+            "creator": "U3PTX9WER",
+            "last_set": "1487261168"
+        },
+        "purpose": {
+            "value": "Discuss trivia images",
+            "creator": "U3P3ZG1Q9",
+            "last_set": "1484087661"
+        }
+    },
+    {
+        "id": "C3QFHC1DM",
+        "name": "triviaweekend",
+        "created": "1484087750",
+        "creator": "U3P3ZG1Q9",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U3P3ZG1Q9",
+            "U3PSEC67N",
+            "U3PSHA2RY",
+            "U3PTX9WER",
+            "U3QAZR6D6",
+            "U3QGW9KML",
+            "U3REGPRB8",
+            "U3SJ6J3CZ",
+            "U3SL363UH",
+            "U3TAVES85",
+            "U3TCE3PL4",
+            "U3TD4RP9S",
+            "U3TH758NQ",
+            "U3THCEWQL",
+            "U3TPBQEHE",
+            "U3TPHUT5X",
+            "U3TPN5J4Q",
+            "U3TR57U81",
+            "U3U05BGES",
+            "U3U0TU7K9",
+            "U3U0YNG3E",
+            "U3U0Z9F4K",
+            "U3V18H78E",
+            "U3V9ED7FG",
+            "U3WHQMZD1",
+            "U40FH0H44",
+            "U41VCDCB1",
+            "U42S230T0",
+            "U43BZAH32",
+            "U43SXS4TC",
+            "U44PM1N8P",
+            "U44T9PE1M",
+            "U45EHS24U",
+            "U45U8PA9Z",
+            "U479FFS20",
+            "U47ENNMU4"
+        ],
+        "pins": [
+            {
+                "id": "1487552293.010857",
+                "type": "C",
+                "user": "U3TAVES85",
+                "owner": "U3TAVES85",
+                "created": 1487552314
+            }
+        ],
+        "topic": {
+            "value": "http:\/\/www.kvsc.org\/listen_live.php http:\/\/kvsc.org\/trivia\/points\/latest.php",
+            "creator": "U41VCDCB1",
+            "last_set": "1487441411"
+        },
+        "purpose": {
+            "value": "A channel for playing trivia on Trivia Weekend!",
+            "creator": "U3P3ZG1Q9",
+            "last_set": "1484087750"
+        }
+    }
+]

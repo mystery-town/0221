@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U45EHS24U",
+        "text": "<@U45EHS24U> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487097227.000070"
+    },
+    {
+        "type": "message",
+        "user": "U41VCDCB1",
+        "text": "Hi <@U45EHS24U> !",
+        "ts": "1487122556.000071"
+    }
+]

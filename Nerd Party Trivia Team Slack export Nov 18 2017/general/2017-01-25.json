@@ -1,0 +1,196 @@
+[
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Is there a list of previous years questions that I can link friends to give them a idea of what the trivia is like to try and recruit them?",
+        "thread_ts": "1485364860.000140",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U3PSHA2RY",
+                "ts": "1485366329.000141"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1485364860.000140"
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "rob: I don't think so, but Stacia has books of previous year's questions.",
+        "thread_ts": "1485364860.000140",
+        "parent_user_id": "U3TAVES85",
+        "ts": "1485366329.000141"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3TAVES85> - We need to purchase the question books each year, so not sure about the ethics of posting any of the questions publicly. We could maybe pull together some sample questions (like maybe 5-10 from different years?) and post on the forum for you to forward out?",
+        "ts": "1485370758.000143"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Oh, also we did a presentation once with some sample questions and festive recruitment language.",
+        "ts": "1485370790.000144"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<https:\/\/docs.google.com\/presentation\/d\/1jTp8RiX-rUVmKXQXSqEb14NJM_UYVZVXj1KDkRoJc00\/edit?usp=sharing>",
+        "ts": "1485370881.000145"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3P3ZG1Q9> shared a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3P3ZG1Q9\/F3WGP5KU5\/nerdnitetrivia|nerdNiteTrivia.pptx>",
+        "file": {
+            "id": "F3WGP5KU5",
+            "created": 1485370893,
+            "timestamp": 1485370893,
+            "name": "nerdNiteTrivia",
+            "title": "nerdNiteTrivia.pptx",
+            "mimetype": "application\/vnd.google-apps.presentation",
+            "filetype": "gpres",
+            "pretty_type": "GDocs Presentation",
+            "user": "U3P3ZG1Q9",
+            "editable": false,
+            "size": 8046,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/presentation\/d\/1jTp8RiX-rUVmKXQXSqEb14NJM_UYVZVXj1KDkRoJc00\/edit?usp=sharing",
+            "thumb_64": "https:\/\/slack.com\/img\/files\/gpres_64.v.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/b008f\/img\/files\/gpres_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3P3ZG1Q9\/F3WGP5KU5\/nerdnitetrivia",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "has_rich_preview": false
+        },
+        "user": "U3P3ZG1Q9",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "autumn",
+        "bot_id": null,
+        "ts": "1485370893.000147"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "Yeah, I forgot to say just like a couple questions, don't need to scare them away with hundreds.",
+        "ts": "1485372184.000148"
+    },
+    {
+        "user": "U3WHQMZD1",
+        "text": "<@U3WHQMZD1> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1485396851.000149"
+    },
+    {
+        "type": "message",
+        "user": "U3WHQMZD1",
+        "text": "HI, I am teaching brett to use slack",
+        "ts": "1485397067.000150"
+    },
+    {
+        "type": "message",
+        "user": "U3TR57U81",
+        "text": "sounds goo",
+        "ts": "1485397091.000151"
+    },
+    {
+        "type": "message",
+        "user": "U3WHQMZD1",
+        "text": "d",
+        "ts": "1485397096.000152"
+    },
+    {
+        "type": "message",
+        "user": "U3TR57U81",
+        "text": "good*",
+        "thread_ts": "1485397099.000153",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U3WHQMZD1",
+                "ts": "1485397210.000155"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1485397099.000153"
+    },
+    {
+        "type": "message",
+        "user": "U3WHQMZD1",
+        "text": "Great, we did it. Someone please give us an emoji when you read this.",
+        "ts": "1485397110.000154",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3PSHA2RY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat",
+                "users": [
+                    "U3PSHA2RY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "skull",
+                "users": [
+                    "U3TAVES85"
+                ],
+                "count": 1
+            },
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pizza",
+                "users": [
+                    "U3SJ6J3CZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U3QGW9KML"
+                ],
+                "count": 1
+            },
+            {
+                "name": "snowman_without_snow",
+                "users": [
+                    "U3TPN5J4Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3WHQMZD1",
+        "text": "brettb: hi",
+        "thread_ts": "1485397099.000153",
+        "parent_user_id": "U3TR57U81",
+        "ts": "1485397210.000155"
+    }
+]

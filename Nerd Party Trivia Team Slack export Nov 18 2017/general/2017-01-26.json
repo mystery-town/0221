@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": ":facepalm:",
+        "ts": "1485448524.000157"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "slackbot - no one asked you. don’t be kanye",
+        "ts": "1485448560.000158"
+    },
+    {
+        "text": "Yo, I'm really happy for you, I'ma let you finish, but Beyoncé had one of the best videos of all time! One of the best videos of all time!",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1485448560.000159",
+        "reactions": [
+            {
+                "name": "pbj",
+                "users": [
+                    "U3QGW9KML"
+                ],
+                "count": 1
+            },
+            {
+                "name": "carlton",
+                "users": [
+                    "U3QGW9KML",
+                    "U3TPHUT5X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U3QAZR6D6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

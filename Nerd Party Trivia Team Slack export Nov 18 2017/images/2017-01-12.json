@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "That show looks amazing.",
+        "ts": "1484239272.000011"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "Loved it when I was a wee lad. ",
+        "ts": "1484240518.000012"
+    },
+    {
+        "user": "U3REGPRB8",
+        "text": "<@U3REGPRB8> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484244509.000013"
+    }
+]

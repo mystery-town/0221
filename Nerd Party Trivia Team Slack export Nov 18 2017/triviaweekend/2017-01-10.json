@@ -1,0 +1,24 @@
+[
+    {
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3P3ZG1Q9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484087749.000002"
+    },
+    {
+        "user": "U3P3ZG1Q9",
+        "purpose": "A channel for playing trivia on Trivia Weekend!",
+        "text": "<@U3P3ZG1Q9> set the channel purpose: A channel for playing trivia on Trivia Weekend!",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1484087749.000003"
+    },
+    {
+        "user": "U3PSHA2RY",
+        "text": "<@U3PSHA2RY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484099927.000002"
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Someone find that damn sewer one. That weird round creature mocks me.",
+        "ts": "1487256158.000054"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "SAME",
+        "ts": "1487257407.000056"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U3SJ6J3CZ> uploaded a file: <https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F45NL88PK\/image_uploaded_from_ios.jpg|Image uploaded from iOS> and commented: Found this googling \"stormwater activities for educators\". Not our same critter, but it's odd that this one is round, too. ",
+        "file": {
+            "id": "F45NL88PK",
+            "created": 1487257761,
+            "timestamp": 1487257761,
+            "name": "Image uploaded from iOS.jpg",
+            "title": "Image uploaded from iOS",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U3SJ6J3CZ",
+            "editable": false,
+            "size": 18416,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F45NL88PK\/image_uploaded_from_ios.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T3P35HN56-F45NL88PK\/download\/image_uploaded_from_ios.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45NL88PK-ac40842982\/image_uploaded_from_ios_64.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45NL88PK-ac40842982\/image_uploaded_from_ios_80.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45NL88PK-ac40842982\/image_uploaded_from_ios_360.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "thumb_360_w": 282,
+            "thumb_360_h": 179,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T3P35HN56-F45NL88PK-ac40842982\/image_uploaded_from_ios_160.jpg?t=xoxe-125107600176-274565733731-275515188566-de7bec41ca",
+            "image_exif_rotation": 1,
+            "original_w": 282,
+            "original_h": 179,
+            "permalink": "https:\/\/nerdpartytrivia.slack.com\/files\/U3SJ6J3CZ\/F45NL88PK\/image_uploaded_from_ios.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T3P35HN56-F45NL88PK-cc8aa99f9d",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc46FGEV9S",
+                "created": 1487257761,
+                "timestamp": 1487257761,
+                "user": "U3SJ6J3CZ",
+                "is_intro": true,
+                "comment": "Found this googling \"stormwater activities for educators\". Not our same critter, but it's odd that this one is round, too. "
+            }
+        },
+        "user": "U3SJ6J3CZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "kurt",
+        "bot_id": null,
+        "upload_reply_to": "0D08C939-F736-41BC-9C9B-B7F4D385C8E4",
+        "ts": "1487257761.000059"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "FUCKING A KURT THAT IS ACTUALLY HIM",
+        "ts": "1487258474.000060"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<https:\/\/www.uwgb.edu\/facilities\/documents\/GWQ004.pdf>",
+        "ts": "1487258489.000061"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "like, it's actually actually him",
+        "ts": "1487258503.000062"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "you win x1000",
+        "ts": "1487258524.000063",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U3TAVES85",
+                    "U3PTX9WER",
+                    "U3PSHA2RY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "WHAT IS HAPPENING??!!! Yay <@U3SJ6J3CZ> !!!!",
+        "ts": "1487258629.000065"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "It's from UWGB?!? I went there! :joy:",
+        "ts": "1487258821.000067"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "hahaha",
+        "ts": "1487258833.000068"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yay!!!!! I'm super confused, though!!! The image I posted linked to a city in Florida, and the web page didn't exist anymore. How did you find the UWGB one???",
+        "ts": "1487258881.000069"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I saw the word \"Stormie\" on his hat, so I googled \"Stormie the Storm Drain\" and the pdf was the first result",
+        "ts": "1487258958.000070"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Wow. YOU win x1000 for that!!!!! :+1:",
+        "ts": "1487259010.000071"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Team effort A++",
+        "ts": "1487259024.000072"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Yes!!!! :heart:",
+        "ts": "1487259032.000073"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "<@U3PTX9WER> - I printed the PDF and can bring to HQ for the image binder.",
+        "ts": "1487259050.000074"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "If we didn't get that one, and I found out it was from where I went to college, I would have been salty for like a week. ",
+        "ts": "1487259074.000075"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "haha",
+        "ts": "1487259117.000076"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "<@U3P3ZG1Q9>  I printed it when you first sent the file to me. :upside_down_face:",
+        "ts": "1487259926.000077"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Now we have two copies! In case someone wants to learn about storm drains, but the first copy is occupied.",
+        "ts": "1487260006.000078"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "Stormie 4 life",
+        "ts": "1487260136.000079",
+        "reactions": [
+            {
+                "name": "umbrella_with_rain_drops",
+                "users": [
+                    "U3P3ZG1Q9",
+                    "U3SJ6J3CZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Okay, so let's talk about what's left.... I feel like we maybe have a chance at finding the two guys in front of a helicopter.",
+        "ts": "1487260323.000084"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "And possibly the person wearing the chain necklace.",
+        "ts": "1487260349.000085"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "I wonder if the helicopter one is going to be a final hour question.",
+        "ts": "1487260461.000086"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Part of me thinks the sun Mandala one is so vague that it's going to be one of those images we overthink. ",
+        "ts": "1487260484.000087"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I'm guessing the chain guy is gonna be the final. ",
+        "ts": "1487260505.000088"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Do you think any of the ones that are left could possibly be hiding somewhere on Instagram?",
+        "ts": "1487260632.000089"
+    },
+    {
+        "user": "U3THCEWQL",
+        "text": "<@U3THCEWQL> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487260662.000090"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, Ann!",
+        "ts": "1487260670.000091"
+    },
+    {
+        "type": "message",
+        "user": "U3THCEWQL",
+        "text": "haha hi",
+        "ts": "1487260674.000092"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Really enjoying all this trivia eve excitement. I feel like it's rare we find images this close to game day.",
+        "ts": "1487260716.000093"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I really think the chain guy is from the inside of some album cover, and the band\/artist is a weather-related name. Red Wedding anyone??",
+        "ts": "1487261010.000094"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I started following KVSC on SnapChat in case they do something",
+        "ts": "1487261085.000095"
+    },
+    {
+        "user": "U3PTX9WER",
+        "topic": "<http:\/\/trivia.heresyourwater.com\/>, <http:\/\/whatarethesethings.weebly.com>",
+        "text": "<@U3PTX9WER> set the channel topic: <http:\/\/trivia.heresyourwater.com\/>, <http:\/\/whatarethesethings.weebly.com>",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1487261168.000096"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I was following them on Snapchat, but it was mostly in studio performances by local bands, 10 seconds at a time, so I had to stop.",
+        "ts": "1487261285.000097"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I agree with your weather related musician idea, stacia... just not even sure how we'd find it.",
+        "ts": "1487261333.000098"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Especially given Kurt found the one image and it was a weather-related album title.",
+        "ts": "1487261355.000099"
+    },
+    {
+        "type": "message",
+        "user": "U3PTX9WER",
+        "text": "I emailed <https:\/\/www.ametsoc.org\/ams\/> about the profile man, wondering if he's an award medal. He kinda looks like <https:\/\/www.ametsoc.org\/ams\/index.cfm\/about-ams\/ams-awards-honors\/awards\/awards-list\/the-charles-l-mitchell-award\/>",
+        "attachments": [
+            {
+                "title": "Home - American Meteorological Society",
+                "title_link": "https:\/\/www.ametsoc.org\/ams\/",
+                "text": "Promotes the development, dissemination, information and education on the atmospheric and related oceanic and hydrologic sciences.",
+                "fallback": "Home - American Meteorological Society",
+                "from_url": "https:\/\/www.ametsoc.org\/ams\/",
+                "service_icon": "https:\/\/www.ametsoc.org\/ams\/images\/favicon.ico",
+                "service_name": "ametsoc.org",
+                "id": 1
+            }
+        ],
+        "ts": "1487261550.000100"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "oh wow... good angle!",
+        "ts": "1487261631.000102"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I'll also send that one to my friend who's a meteorologist.",
+        "ts": "1487261663.000103"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Last year was Route 66 To Heaven, so they've been sticking with final images related to the theme for a few years now. I'm guessing they'll do it again. ",
+        "ts": "1487261765.000104"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Could we email someone who collects medals?",
+        "ts": "1487262817.000105"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "There are also Meteorological Societies in other countries and they all have different awards and medals.",
+        "ts": "1487262852.000106"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I emailed the American Meteorological Society",
+        "ts": "1487263918.000109"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Found while looking for this medal, my new favorite owl: <http:\/\/memberfiles.freewebs.com\/60\/92\/32319260\/photos\/Vintage-Hurricane-Pho\/1982%20Skywarn%20Booklet%20001.jpg>",
+        "attachments": [
+            {
+                "fallback": "800x1217px image",
+                "image_url": "http:\/\/memberfiles.freewebs.com\/60\/92\/32319260\/photos\/Vintage-Hurricane-Pho\/1982%20Skywarn%20Booklet%20001.jpg",
+                "image_width": 800,
+                "image_height": 1217,
+                "image_bytes": 420981,
+                "from_url": "http:\/\/memberfiles.freewebs.com\/60\/92\/32319260\/photos\/Vintage-Hurricane-Pho\/1982%20Skywarn%20Booklet%20001.jpg",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1487264074.000110",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U3QAZR6D6",
+                "ts": "1487264231.000114"
+            },
+            {
+                "user": "U3P3ZG1Q9",
+                "ts": "1487264268.000116"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1487264074.000110",
+        "reactions": [
+            {
+                "name": "pig_nose",
+                "users": [
+                    "U3QAZR6D6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U3QAZR6D6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wind_blowing_face",
+                "users": [
+                    "U3SJ6J3CZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "autumn: Haha, I didn't mean to click on the pig nose! ",
+        "thread_ts": "1487264074.000110",
+        "parent_user_id": "U3P3ZG1Q9",
+        "ts": "1487264231.000114"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "lol",
+        "thread_ts": "1487264074.000110",
+        "parent_user_id": "U3P3ZG1Q9",
+        "ts": "1487264268.000116"
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "<@U3SJ6J3CZ> commented \"Found this googling \"stormwater activities for educators\".\" How did you even think to google that?! Amazing! ",
+        "ts": "1487266327.000120"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "I have no idea. But I'm happy it worked!",
+        "ts": "1487266601.000121"
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "<@U3SJ6J3CZ> Lol...well, great job!",
+        "edited": {
+            "user": "U3PSHA2RY",
+            "ts": "1487266749.000000"
+        },
+        "ts": "1487266733.000122"
+    },
+    {
+        "type": "message",
+        "user": "U3SJ6J3CZ",
+        "text": "Thank you!!!! Lol. :smile:",
+        "ts": "1487266915.000124"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "Owlie has hurricanes as his EYES. Do not stare directly into them!",
+        "ts": "1487275949.000125"
+    }
+]

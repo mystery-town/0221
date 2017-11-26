@@ -1,0 +1,436 @@
+[
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Maybe you've already talked about this. Is there a way I can signal which of the pinned questions I'm currently working on?",
+        "ts": "1484925293.000094"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "¯\\_(ツ)_\/¯",
+        "ts": "1484925377.000095"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Not that I can see. I thought maybe you could do custom statuses, but it looks like you can only set yourself active or away. I will look and see if there's a bot that might do something we could use for that.",
+        "ts": "1484925385.000096"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "I wonder if we could *like* the question. ",
+        "ts": "1484925828.000097"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "I think that would get too confusing. If you changed what you were working on, you'd have to go back and unlike it so you could like something else.",
+        "ts": "1484925863.000098"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "True ",
+        "ts": "1484926059.000099"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+        "edited": {
+            "user": "U3QGW9KML",
+            "ts": "1484926558.000000"
+        },
+        "thread_ts": "1484926541.000100",
+        "reply_count": 6,
+        "replies": [
+            {
+                "user": "U3TAVES85",
+                "ts": "1484926705.000102"
+            },
+            {
+                "user": "U3QAZR6D6",
+                "ts": "1484926864.000109"
+            },
+            {
+                "user": "U3QAZR6D6",
+                "ts": "1484926887.000111"
+            },
+            {
+                "user": "U3QAZR6D6",
+                "ts": "1484926929.000114"
+            },
+            {
+                "user": "U3QGW9KML",
+                "ts": "1484927486.000118"
+            },
+            {
+                "user": "U3QGW9KML",
+                "ts": "1484927556.000121"
+            }
+        ],
+        "unread_count": 6,
+        "ts": "1484926541.000100"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "barry: like this?",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484926705.000102"
+    },
+    {
+        "timestamp": "1484926705000102",
+        "is_multiteam": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926541000100",
+                "fallback": "[January 20th, 2017 7:35 AM] barry: If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "ts": "1484926541.000100",
+                "author_subname": "barry",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "author_name": "Barry Schwartze",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/barry",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/d6dd6b89fc2e380f465bba8f2f4d62a4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0006-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "barry: like this?",
+                "author_name": "Rob Willett",
+                "author_subname": "rob",
+                "text": "barry: like this?",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/rob",
+                "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926705000102?thread_ts=1484926541000100&cid=C3PPY3602",
+                "ts": "1484926705.000102",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2016e3e02c875bae8c62077e8f38ccce.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0023-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U3TAVES85",
+        "ts": "1484926705.000104",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3QAZR6D6",
+                    "U3TAVES85"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3QAZR6D6",
+                    "U3TAVES85"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "I like Trello. I have wondered whether that would work well for tracking questions. Guesses and comments could be put within each question, and they take attachments. ",
+        "ts": "1484926707.000105"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "I can't seem to reply to it, but I'm on my phone.",
+        "edited": {
+            "user": "U3QAZR6D6",
+            "ts": "1484926796.000000"
+        },
+        "ts": "1484926784.000106"
+    },
+    {
+        "type": "message",
+        "user": "U3TAVES85",
+        "text": "On mobile, just tap any of the text in the thread to open it and reply",
+        "ts": "1484926854.000108"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Oh I can add a reply to an existing reply ",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484926864.000109"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "Cool ",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484926887.000111"
+    },
+    {
+        "timestamp": "1484926887000111",
+        "is_multiteam": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926541000100",
+                "fallback": "[January 20th, 2017 7:35 AM] barry: If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "ts": "1484926541.000100",
+                "author_subname": "barry",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "author_name": "Barry Schwartze",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/barry",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/d6dd6b89fc2e380f465bba8f2f4d62a4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0006-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "3 replies"
+            },
+            {
+                "fallback": "Cool ",
+                "author_name": "Craig Larsen",
+                "author_subname": "craigpl",
+                "text": "Cool ",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/craigpl",
+                "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926887000111?thread_ts=1484926541000100&cid=C3PPY3602",
+                "ts": "1484926887.000111",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a043a138c2d75e1ee70ba84b11b396f1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0008-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U3QAZR6D6",
+        "ts": "1484926887.000113"
+    },
+    {
+        "type": "message",
+        "user": "U3QAZR6D6",
+        "text": "You have to click the checkbox \"send to <#C3PPY3602|general>\" ",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484926929.000114"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "On desktop, I'm not seeing any message threading.",
+        "thread_ts": "1484926953.000116",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U3PSHA2RY",
+                "ts": "1484928442.000123"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1484926953.000116"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "If this is really how it lays out, then this is terrible.",
+        "attachments": [
+            {
+                "fallback": "[January 20th, 2017 7:35 AM] barry: If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "ts": "1484926541.000100",
+                "author_subname": "barry",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "author_name": "Barry Schwartze",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/barry",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/d6dd6b89fc2e380f465bba8f2f4d62a4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0006-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general",
+                "children": [
+                    {
+                        "fallback": "Cool ",
+                        "author_name": "Craig Larsen",
+                        "author_subname": "craigpl",
+                        "text": "Cool ",
+                        "mrkdwn_in": [
+                            "text"
+                        ],
+                        "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/craigpl",
+                        "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926887000111?thread_ts=1484926541000100&cid=C3PPY3602",
+                        "ts": "1484926887.000111",
+                        "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a043a138c2d75e1ee70ba84b11b396f1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0008-48.png",
+                        "id": 2
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/nerdpartytrivia.slack.com\/archives\/general\/p1484926887000113",
+                "is_share": true
+            }
+        ],
+        "ts": "1484927396.000117"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "ah, it’s on the side pane; interesting, but covers up the channel details - which is where we will want to pin Open questions.",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484927486.000118"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U3QGW9KML",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[January 20th, 2017 7:35 AM] barry: If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "ts": "1484926541.000100",
+                "author_id": "U3QGW9KML",
+                "author_subname": "Barry Schwartze",
+                "channel_id": "C3PPY3602",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "If you want to easily keep track of who is working on something, you'll need something like a Trelllo board with swim lanes. I did see that slack is rolling out threading - which I do think will be useful on conversations around questions. ",
+                "author_name": "Barry Schwartze",
+                "author_link": "https:\/\/nerdpartytrivia.slack.com\/team\/U3QGW9KML",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-17\/143156384515_fbdef2ed9b7783b54768_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U3QGW9KML> pinned a message to this channel.",
+        "ts": "1484927524.000120"
+    },
+    {
+        "type": "message",
+        "user": "U3QGW9KML",
+        "text": "i find the “send to <#C3PPY3602|general>” annoying in the channel feed",
+        "thread_ts": "1484926541.000100",
+        "parent_user_id": "U3QGW9KML",
+        "ts": "1484927556.000121"
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "autumn: it seems to work well on mobile",
+        "thread_ts": "1484926953.000116",
+        "parent_user_id": "U3P3ZG1Q9",
+        "ts": "1484928442.000123"
+    },
+    {
+        "user": "U3V18H78E",
+        "text": "<@U3V18H78E> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484928908.000125"
+    },
+    {
+        "type": "message",
+        "user": "U3P3ZG1Q9",
+        "text": "Hi, Kristine!",
+        "ts": "1484929370.000126"
+    },
+    {
+        "user": "U3TPHUT5X",
+        "text": "<@U3TPHUT5X> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484941094.000127"
+    },
+    {
+        "user": "U3UGRMQ5B",
+        "text": "<@U3UGRMQ5B> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484941420.000128"
+    },
+    {
+        "user": "U3TPBQEHE",
+        "text": "<@U3TPBQEHE> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484943517.000129"
+    },
+    {
+        "user": "U3TPN5J4Q",
+        "text": "<@U3TPN5J4Q> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484944767.000130"
+    },
+    {
+        "type": "message",
+        "user": "U3TPN5J4Q",
+        "text": "<@U3QAZR6D6>: I made it!",
+        "ts": "1484944816.000131"
+    },
+    {
+        "user": "U3TR57U81",
+        "text": "<@U3TR57U81> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484947715.000132"
+    },
+    {
+        "type": "message",
+        "user": "U3TPHUT5X",
+        "text": "Hullo",
+        "ts": "1484948816.000133",
+        "reactions": [
+            {
+                "name": "fish",
+                "users": [
+                    "U3P3ZG1Q9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U3PSHA2RY",
+        "text": "Hi <@U3TPHUT5X>. :wave:",
+        "ts": "1484950037.000134",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U3TPHUT5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U3V9ED7FG",
+        "text": "<@U3V9ED7FG> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1484981151.000135"
+    }
+]
